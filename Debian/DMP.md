@@ -14,8 +14,10 @@
 		- Means it can run on older and neewer systems.
 		- Other linux distros have limited compatibility (ex. Fedora dropped support for older architectures).
 		- **Note:** If Debian does not run on particular hardware, chances are, other distributions will not.
-	3. **Ideal for those who are looking for an alternative for *Windows* and *macOS*.**
-	4. **Stable and Secure**
+	3. **Availability of Free and Proprietary Software**
+		- There are more than **57200** software packages that can be downloaded for free.
+	4. **Ideal for those who are looking for an alternative for *Windows* and *macOS*.**
+	5. **Stable and Secure**
 		- Because it's maintained by an established and mature community of developers.
 		- It takes two to three years for the community to release a **Major Update**, to ensure that the newest version is stable and bugs-free.
 - ##### Cons
