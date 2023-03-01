@@ -21,7 +21,7 @@
 ``-> Add types of users that **wont** find this distro suitable``
 
 ## What desktop environment does it use?
-``-> Add the desktop enviroment that it uses (gnome,kde,xfce,etc)``
+- Fedora by defualt uses GNOME DE but you can install other DEs manually later
 
 ## What package manager does it use?
 ``-> Add the package manager that it uses (apt, rpm, dpkg, etc)``
