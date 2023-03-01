@@ -47,34 +47,34 @@
 - ## How to install Ubuntu
     - Download the Ubuntu image, from [here](https://ubuntu.com/download/desktop), then it will be like this : ![inst1](images/1.jpeg)
     - and this window will appear, just press enter on the first choice
-    ![inst2](images/2.jpeg)
+     <br>  ![inst2](images/2.jpeg)
     - and loading ...
-    ![inst3](images/3.jpeg)
+     <br> ![inst3](images/3.jpeg)
     - click (Install Ubuntu) here : 
-    ![inst4](images/4.jpeg)
+     <br> ![inst4](images/4.jpeg)
     - here you can choose any language you want then click (Continue) 
-    ![inst5](images/5.jpeg)
+     <br> ![inst5](images/5.jpeg)
     - here check if this is selected and press (Continue)
-    ![inst6](images/6.jpeg)
+     <br> ![inst6](images/6.jpeg)
     - and then click (Install Now) 
-    ![inst7](images/7.jpeg)
+     <br> ![inst7](images/7.jpeg)
     - choose you location here and click (Continue) 
-    ![inst8](images/8.jpeg)
+     <br> ![inst8](images/8.jpeg)
     - fill you data (name, pc's name, username, password, confirm that password), then click (Continue) 
-    ![inst9](images/9.jpeg)
+     <br> ![inst9](images/9.jpeg)
     - wait for it a little 
-    ![inst10](images/10.jpeg)
+     <br> ![inst10](images/10.jpeg)
     - click (Restart Now) and it will restart 
-    ![inst11](images/11.jpeg)
+     <br> ![inst11](images/11.jpeg)
     - after testart this window will appear, you can connect any of your accounts, but if you don't want to do that just click (Skip) 
-    ![inst12](images/12.jpeg)
+     <br> ![inst12](images/12.jpeg)
     - click (Next) 
-    ![inst13](images/13.jpeg)
+     <br> ![inst13](images/13.jpeg)
     - click (Next) again 
-    ![inst14](images/14.jpeg)
+     <br> ![inst14](images/14.jpeg)
     - then click (Done) 
-    ![inst15](images/15.jpeg)
+     <br> ![inst15](images/15.jpeg)
     - and here you go! :D 
-    ![inst16](images/16.jpeg)
+     <br> ![inst16](images/16.jpeg)
 - ##
 
