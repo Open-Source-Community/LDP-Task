@@ -30,6 +30,17 @@
 		- This can be a problem for those  accustomed to using specific software. 
 		- Transitioning to this system can become a problem.
 		
+### Desktop Envirnments
+- Debian supports all kinds of graphical environments.
+	- Full-Featured desktop environments.
+	- Powerful window managers.
+- Ex.
+	1. Gnome
+	2. KDE Plasma
+	3. Xfce
+	4. LXDE
+	5. MATE
+
 ### Who's It For?
 - Might be complicated for beginner, however if you're willing to read documentation and do some googling then you're good to go.
 - "If you don’t mind reading documentation and asking questions on forums or chats, then you should not have an issue using Debian. However if you don’t want to run into issues and just want it to work, you’d be much better off with Linux Mint."  -Linux Power User
