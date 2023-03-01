@@ -30,7 +30,7 @@
 		- This can be a problem for those  accustomed to using specific software. 
 		- Transitioning to this system can become a problem.
 		
-### Desktop Envirnments
+### Desktop Environments
 - Debian supports all kinds of graphical environments.
 	- Full-Featured desktop environments.
 	- Powerful window managers.
