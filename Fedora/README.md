@@ -7,7 +7,10 @@
 ``-> Add distro images``
 
 ## It's Pros
-``-> Add distro pros relating to: ``
+- It's 100% free of charge
+- it's simple and beginner friendly and doesn't require a long time to get the hang of
+- it's less hardware demanding using only 1 GB of RAM while idling
+- in general Fedora is a great OS out of the box with a user friendly UI and a great community
 
 ``(Stability , Security , Performance , Compatible apps , Hardware/System requirements, Technical support of the distro's maintainers) and any other points you find``
 ## It's Cons
