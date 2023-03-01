@@ -45,4 +45,12 @@
 - Might be complicated for beginner, however if you're willing to read documentation and do some googling then you're good to go.
 - "If you don’t mind reading documentation and asking questions on forums or chats, then you should not have an issue using Debian. However if you don’t want to run into issues and just want it to work, you’d be much better off with Linux Mint."  -Linux Power User
 
-
+### How To Install It?
+1. Download **Debian ISO** file from [Here](https://www.debian.org/).
+2. Make a bootable USB - we recommend [Etcher](https://www.balena.io/etcher) - and boot the system from it.
+3. Choose **Graphical Install**.
+4. Set Up Language, Location, and Keyboard.
+5. Configure Network.
+6. Set your User name and Password.
+7. Set up your partition disks as you like.
+8. Complete the final configurations.
