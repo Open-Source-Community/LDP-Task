@@ -22,7 +22,7 @@
 		- It takes two to three years for the community to release a **Major Update**, to ensure that the newest version is stable and bugs-free.
 - ##### Cons
 	1. **Conservative OS**
-		- Lags in terms of introducing new features that are already avaliable to other linux distros (due to the large gaps between **Major Updates**).
+		- Lags in terms of introducing new features that are already available to other linux distros (due to the large gaps between **Major Updates**).
 		- Not user-friendly according to others.
 		- Basic GUI framework, but most complex tasks can only be done in terminal.
 	2. **Issue with GNU Principles**
