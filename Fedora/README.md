@@ -1,7 +1,17 @@
 # Fedora Linux
 
+<img src="resources/fedora-logo.png"  width="150" height="150">
+
+<br/>
+
 ## It's History
-``-> Add distro history + What it is based on? + Why others made that distro?``
+To begin with, Fedora Linux or Fedora for short is **based on** [Red Hat Linux](https://en.wikipedia.org/wiki/Red_Hat_Linux)
+
+
+Warren Togami began Fedora Linux as an undergraduate project at the University of Hawaii, the key difference between **Fedora Linux** and **Red Hat Linux** was that Fedora's repository development would be collaborative with the global volunteer community.
+
+ Fedora Linux, then known as "Fedora Core" was a fork of Red Hat Linux launched in 2003, bascially [Red Hat](https://en.wikipedia.org/wiki/Red_Hat) were trying to be innovative and stable at the same time with **Red Hat Linux**, and as we all know innovation and stabillity don't go very well hand-in-hand, so as expected this wasn't working well for them or their users, which at the time were mainly enterprise companies, so they decided to discontinue **Red Hat Linux** so the team can focus on their **paid + stable** version for servers [Red Hat Enterprise Linux](https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux) and for it to be **Red Hat's** only officially supported linux distribution, while **Fedora** was to be a community distribution **(free + full of innovation)**.
+
 
 ## Distro images
 ``-> Add distro images``
