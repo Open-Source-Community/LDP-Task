@@ -16,7 +16,7 @@
 ``(Stability , Security , Performance , Compatible apps , Hardware/System requirements, Technical support of the distro's maintainers) and any other points you find``
 
 ## Who is it made for?
-``-> Add distros targeted users``
+Fedora is targeted at the average user that isn't necessarily tech savy however it can still be used by more advanced linux users.
 ## Who is it **not** made for?
 ``-> Add types of users that **wont** find this distro suitable``
 
