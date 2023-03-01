@@ -29,8 +29,10 @@ Fedora is targeted at the average user that isn't necessarily tech savy however 
 ## What package manager does it use?
 ``-> Add the package manager that it uses (apt, rpm, dpkg, etc)``
 ## User Experiences/Reviews
-``-> Add nice online user experiences/reviews that someone posted on this distro (not too long ones)``
+![Alt text](resources/user-review.png)
 
+
+You can view more reviews [here](https://www.capterra.com/p/229028/Fedora-Workstation/reviews/#:~:text=Pros%3A%20I've%20been%20a,best%20Linux%20distro%20available%20today.)
 ## Fun facts
 ``-> Add some fun facts about the distro like (Famous people who use the distro and Distrowatch ranking) ``
 ## How to install it?
