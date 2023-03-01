@@ -41,6 +41,9 @@
 	4. LXDE
 	5. MATE
 
+### DistroWatch Ranking
+- **8th** with *1044* hits per day for the last 12 months.
+
 ### Who's It For?
 - Might be complicated for beginner, however if you're willing to read documentation and do some googling then you're good to go.
 - "If you don’t mind reading documentation and asking questions on forums or chats, then you should not have an issue using Debian. However if you don’t want to run into issues and just want it to work, you’d be much better off with Linux Mint."  -Linux Power User
