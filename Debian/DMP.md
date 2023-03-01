@@ -3,7 +3,7 @@
 ### Debian History  
 - Developed by the community-supported Debian project (established by Ian Murdock in 1993).
 - One of the oldest operating systems based on Linux kernel (Released in 1993).
-- Its the basis for many other distributions (Ubuntu, Mint, Kali, Pop-Os).
+- It's the basis for many other distributions (Ubuntu, Mint, Kali, Pure-OS).
 
 ### Pros & Cons
 - ##### Pros
