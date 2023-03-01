@@ -40,31 +40,33 @@
     If you are new to Linux, or already use Linux and want to try a different 
     Linux distro it is unlikely you will find a better option than Ubuntu Linux.
 
-- ## Pros Here
-Ubuntu is a popular Linux-based operating system that has gained a significant following due to its user-friendly interface and open-source nature. Here are some of the pros and cons of using Ubuntu:
+- ## Pros & Cons of Ubuntu
+    Ubuntu is a popular Linux-based operating system that has gained a significant
+    following due to its user-friendly interface and open-source nature. Here are
+    some of the pros and cons of using Ubuntu:
 
-Pros:
+    - ### Pros:
 
-Free and open-source: Ubuntu is free to download and use, and its source code is freely available for anyone to modify and redistribute.
+        - Free and open-source: Ubuntu is free to download and use, and its source code is freely available for anyone to modify and redistribute.
 
-User-friendly interface: Ubuntu has a simple and easy-to-use interface that makes it accessible for beginners.
-Wide range of applications: Ubuntu has a large collection of software available in its software center, including many popular applications such as Firefox, LibreOffice, and GIMP.
+        - User-friendly interface: Ubuntu has a simple and easy-to-use interface that makes it accessible for beginners.
+        - Wide range of applications: Ubuntu has a large collection of software available in its software center, including many popular applications such as Firefox, LibreOffice, and GIMP.
 
-High security: Ubuntu is known for its robust security features, including its AppArmor security framework and built-in firewall.
+        - High security: Ubuntu is known for its robust security features, including its AppArmor security framework and built-in firewall.
 
-Strong community support: Ubuntu has a large and active community of developers and users who contribute to the operating system and provide support to new users.
-- ## Cons Here
-Cons:
+        - Strong community support: Ubuntu has a large and active community of developers and users who contribute to the operating system and provide support to new users.
+    - ### Cons:
 
-Limited compatibility with some software and hardware: While Ubuntu supports a wide range of hardware and software, there may be some older or specialized devices that are not fully compatible with Ubuntu.
+        - Limited compatibility with some software and hardware: While Ubuntu supports a wide range of hardware and software, there may be some older or specialized devices that are not fully compatible with Ubuntu.
+        
+        - Less support for gaming: Although Ubuntu has made strides in supporting gaming, it still lags behind Windows in terms of game support.
 
-Less support for gaming: Although Ubuntu has made strides in supporting gaming, it still lags behind Windows in terms of game support.
+        - Learning curve for advanced users: While Ubuntu is user-friendly, it may take some time for advanced users to get used to the command-line interface and other advanced features.
 
-Learning curve for advanced users: While Ubuntu is user-friendly, it may take some time for advanced users to get used to the command-line interface and other advanced features.
+        - Potential for instability: As with any operating system, there is a potential for instability or crashes, particularly when using third-party software or when updating the system.
 
-Potential for instability: As with any operating system, there is a potential for instability or crashes, particularly when using third-party software or when updating the system.
+        - Limited commercial software support: While Ubuntu has a large collection of open-source software, it may be more challenging to find commercial software that supports Ubuntu, particularly in certain industries.
 
-Limited commercial software support: While Ubuntu has a large collection of open-source software, it may be more challenging to find commercial software that supports Ubuntu, particularly in certain industries.
 - ## Who's it For? & Who's it Not For?
     - #### I have always recommended Ubuntu to new Linux users because it has all the software most will need for general computer use. Also it seems to have the most documentation online when running into issues.
 
