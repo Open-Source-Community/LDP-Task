@@ -29,4 +29,9 @@
 	4. **Absence of popular proprietary or commercial software**
 		- This can be a problem for those  accustomed to using specific software. 
 		- Transitioning to this system can become a problem.
+		
+### Who's It For?
+- Might be complicated for beginner, however if you're willing to read documentation and googling then you're good to go.
+- "If you don’t mind reading documentation and asking questions on forums or chats, then you should not have an issue using Debian. However if you don’t want to run into issues and just want it to work, you’d be much better off with Linux Mint."  -Linux Power User
+
 
