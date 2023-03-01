@@ -1,7 +1,7 @@
 # Debian Main Points
 ----
 ### Debian History  
-- Developed by the commuinty-supported Debina project (established by Ian Murdock in 1993).
+- Developed by the community-supported Debian project (established by Ian Murdock in 1993).
 - One of the oldest operating systems based on Linux kernel (Released in 1993).
 - Its the basis for many other distros, (Ubuntu, Mint, Kali, Pop-Os).
 
@@ -25,7 +25,7 @@
 		- Basic GUI framework, but most complex tasks can only be done in terminal.
 	2. Issue with GNU Principles
 		-  Conscientiously keeps non-free software out of its official system.
-	3. Installing additional hardware configs is complicated.
+	3. Installing additional hardware configurations is complicated.
 	4. Absence of popular proprietary or commercial software
 		-  This can be a problem for those  accustomed to using specific software. 
 		- Transitioning to this system can become a problem.
