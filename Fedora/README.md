@@ -46,13 +46,41 @@ You can view more reviews [here](https://www.capterra.com/p/229028/Fedora-Workst
 ## Fun facts
 ``-> Add some fun facts about the distro like (Famous people who use the distro and Distrowatch ranking) ``
 ## How to install it?
-- You can get Fedora's ISO image [here](https://getfedora.org/en/workstation/download/).
-- You can then burn the ISO image to a USB stick using [Balena Etcher](https://www.balena.io/etcher) or [Rufus](https://rufus.ie/en/).
-- After creating bootable usb stick, Restart your device and boot into USB stick
-- You can try out fedora before installing it on you hard drive.
-- If you like the look and feel you can choose "Install to hard drive" options.
-- You will be prompted to select your timezone and keyboard layout, After you do so click install and wait for it to finish installation.
-- After it finishes, Reboot your device and remove USB stick you will then be prompted to make a user follow the instructions till the end0
-- Enjoy using Fedora!
+1. You can get Fedora's ISO image [here](https://getfedora.org/en/workstation/download/).
+
+2. You can then burn the ISO image to a USB stick using [Balena Etcher](https://www.balena.io/etcher) or [Rufus](https://rufus.ie/en/).
+
+3. After creating bootable usb stick, Restart your device and boot into USB stick.
+
+![Alt text](https://www.linuxtechi.com/wp-content/uploads/2022/05/Choose-Start-Fedora-Workstation-Live-36.png?ezimgfmt=ng:webp/ngcb22)
+
+4. You can try out fedora before installing it on you hard drive.
+
+![Alt text](https://d3t0tbmlie281e.cloudfront.net/igi/framework/BrPgH5c1ZOPpKxPP.medium)
+
+5. If you like the look and feel you can choose "Install to hard drive" option.
+
+6. You will be prompted to select your timezone and keyboard layout.
+
+![Alt text](https://www.linuxtechi.com/wp-content/uploads/2022/05/Language-Selection-Fedora36-Installation-768x576.png?ezimgfmt=ng:webp/ngcb22)
+
+7. Click continue then you will be prompted with this screen, Click on installation destination.
+
+![Alt text](https://www.linuxtechi.com/wp-content/uploads/2022/05/Default-Installation-Summary-Fedora36-workstation-768x576.png?ezimgfmt=ng:webp/ngcb22)
+
+8. Choose the hard drive that you want Fedora to be installed on once finished, Click done.
+
+![Alt text](https://www.linuxtechi.com/wp-content/uploads/2022/05/Automatic-Storage-configuration-Fedora36-workstation-installation-768x576.png?ezimgfmt=ng:webp/ngcb22)
+
+9. You will be redirected to screen mentioned in step 7, Click begin installation and wait for it to finsh.
+
+10. Reboot your device and remove USB stick.
+
+11. You will then be prompted with this screen to continue setting up your user info and to edit privacy and enable third party repositories.
+
+![Alt text](https://www.linuxtechi.com/wp-content/uploads/2022/05/Start-Setup-Fedora-36-Linux-768x576.png?ezimgfmt=ng:webp/ngcb22)
+
+12. Enjoy using Fedora !
+
 
 
