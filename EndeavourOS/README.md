@@ -29,6 +29,7 @@ EndeavourOS began as a continuation of the Antergos Linux distribution, a distri
 
 		
 ### Desktop Environments
+---
 - EndeavourOS supports all kinds of graphical environments.
 	- Full-Featured desktop environments.
 	- Powerful window managers.
@@ -43,8 +44,11 @@ EndeavourOS began as a continuation of the Antergos Linux distribution, a distri
 	8. I3
 
 ### EndeavourOS Main Audience
-	People that have experience using linux and previously arch distribution will find EndeavourOS good to use.
+---
+People that have experience using linux and previously arch distribution will find EndeavourOS good to use.
+
 ### How To Install It?
+---
 1. Download the EndeavourOS ISO file from their website.
 
 2. Burn the ISO file to a blank DVD or USB drive, using a tool like Rufus or Etcher.
@@ -63,4 +67,5 @@ EndeavourOS began as a continuation of the Antergos Linux distribution, a distri
 
 
 ### Extra : 
-	EndeavourOS is a great operating system, but it may not be the right fit for everyone. It requires some technical knowledge and skill to install and configure, so if you're not comfortable with that then it might be best to look at other options. Additionally, EndeavourOS might not have all the features you need or want in an operating system. It's important to do your research before downloading any OS so you're sure it meets the needs of your computer and your usage.
+---
+EndeavourOS is a great operating system, but it may not be the right fit for everyone. It requires some technical knowledge and skill to install and configure, so if you're not comfortable with that then it might be best to look at other options. Additionally, EndeavourOS might not have all the features you need or want in an operating system. It's important to do your research before downloading any OS so you're sure it meets the needs of your computer and your usage.
