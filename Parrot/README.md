@@ -1,3 +1,15 @@
+# ParrotOs
+- ## What's it based on?
+    Parrot Os is a Linux distribution based on Debian with a focus on security,privacy,and development
+- ## History of Parrot Os
+    - ### What is the ParrotOs?
+        ParrotOs is a free and open-source GNU/Linux distribution that is based on Debian stable and designed for security experts , computer forensics,reverse engineering, hacking , penetration testing , anonymity,privacy, and cryptography.Frozenbox develops it and comes with MATE as the default desktop environment. it has a complete portable arsenal for IT security and digital forensics activities .it also include everything you will need to create apps or protect your online privacy.ParrotOs is available in three editions:(Security,Home,Architect Editions) even as a virtual machine for the Raspberry Pi and Docker. the support for ARM systems(arm64 and armhf) has been restored in version 5.0 LTS, and certain images are now available for board such as the Raspberry Pi . the operating systems comes with MATE Desktop environment by default. however,alternative DEs can be installed .
+
+    - ### What is the History of ParrotOs?
+        Parrot Security Os is developed by security expert Lorenzo Faletra a long with a team of other security experts , open source developers ,digital rights advocates,and other linux enthusiasts.the first bublic release was on April 2013.version 1.0 codenamed Hydrogen was released in july 2014. Version 2.0 codenamed Helium came out in september 2015. version 3 codenamed Lithium came out in june 2016. version 4 was released in may 2018.ParrotOs is currently at version 4.11 released last march 2021.
+
+        As mentioned, Parrot is based on debian though the Parrot team considered shifting to Devuan in 2017 due to problems with system,but was eventually resolved .in january 2019, the team has phased out 32-bit support to concentrate their effort s on x64 and ARM. and to ensure the systems becomes further lightweight,the XFCE Desktop environment (home edition only) became officially supported in August 2020.
+    
 # Features of Parrot OS
 ### It is intended for daily Linux users, software developers, system administrators, system programmers, computer science/engineering students.
 
