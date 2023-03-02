@@ -28,7 +28,31 @@ This distro is not made for people who want bleeding edge performance out of the
 People who fall in either or both of the above categories usually find other distros such as Arch linux more suitbale for their needs.
 
 ## What desktop environment does it use?
-``-> Add the desktop enviroment that it uses (gnome,kde,xfce,etc)``
+One of the nice things about linux mint is that it comes in three Editions each with a different desktop environments to suit different needs.
+
+The editions are: Cinnamon, MATE and Xfce.
+
+### Cinnamon
+Cinnammon is a desktop envrionment developed by the linux mint team and is based on the GNOME 3 desktop environment.
+
+cinnamon is the most modern and feature rich desktop envrionemnt and also the one that requires the most computing resources.
+
+![Cinnamon desktop](resources/cinnamon.webp)
+___cinnamon desktop___
+### MATE
+Another version of linux mint uses the MATE desktop environment which is also developed by the linux mint team and is based on the GNOME 2 desktop enviornment.
+
+The mate version has a slower development and has less features than than the cinnamon edition;however, it is less resource intensive than cinnamon.
+
+![Cinnamon desktop](resources/mate.webp)
+___MATE desktop___
+### Xfce
+The last version of linux uses the Xfce dektop environment
+
+The Xfce version does not have as many features as in the cinnamon and MATE versions but it is extremely stabel and very light on resource usage makong it optimal for low spec machines.
+
+![Cinnamon desktop](resources/xfce.webp)
+___Xfce desktop___
 
 ## What package manager does it use?
 ``-> Add the package manager that it uses (apt, rpm, dpkg, etc)``
