@@ -14,7 +14,9 @@ Warren Togami began Fedora Linux as an undergraduate project at the University o
 
 
 ## Distro images
-``-> Add distro images``
+![Alt text](resources/desktop.png)
+
+![Alt text](resources/terminal.png)
 
 ## It's Pros
 - It's 100% free of charge.
