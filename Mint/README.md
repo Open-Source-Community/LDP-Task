@@ -1,7 +1,11 @@
 # Linux Mint
 
 ## It's History
-``-> Add distro history + What it is based on? + Why others made that distro?``
+Linux mint is a distribution based on Ubuntu (which in turn is based on Debian).
+
+The linux mint project was strated by a software developer called Clément Lefèbvre (now known as Clem). Clem at the time was writing reviews and tuotorials for various linux websites and decided to start his own linux blog which he called "linux mint" (yes that where the naming came from).
+
+While writing his content, Clem strated gainig an understanding of what the community wants from a distro and so he started the linux mint project in 2006 and its now one of the most popular distros out there. 
 
 ## Distro images
 ``-> Add distro images``
