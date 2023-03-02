@@ -1,4 +1,4 @@
-# EndeavourOS Main Points
+# EndeavourOS
 ----
 ### **EndeavourOS History**  
 EndeavourOS began as a continuation of the Antergos Linux distribution, a distribution itself based on Arch Linux, a general-purpose Linux distribution first released in 2019 July.
