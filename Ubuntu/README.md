@@ -45,6 +45,7 @@
 - ## 
 
 - ## How to install Ubuntu
-    - Download the Ubuntu image, from [here](https://ubuntu.com/download/desktop), then it will be like this : [inst1](images/1.jpeg)
+    - Download the Ubuntu image, from [here](https://ubuntu.com/download/desktop), then it will be like this : [inst1](./images/1.jpeg)
+     
 
 - ##
