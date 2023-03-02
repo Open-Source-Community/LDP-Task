@@ -57,8 +57,9 @@ ___Xfce desktop___
 ## What package manager does it use?
 ``-> Add the package manager that it uses (apt, rpm, dpkg, etc)``
 ## User Experiences/Reviews
-``-> Add nice online user experiences/reviews that someone posted on this distro (not too long ones)``
-
+- I really love Linux Mint, it is easy to install, very easy to use - yet it also has all the power of Linux under its hood. Just open up a terminal and everything is there. A well thought out and well rounded desktop focused distribution with some really stunning aesthetics.
+- Linux Mint is a great alternative for Windows or Ubuntu users, who are looking for a free and genuine operating system, that is both reliable and easy to operate.
+- The main features of Linux Mint that made me choose it were: tools for graphic design (GIMP, Blender and Inkscape), improved productivity with LibreOffice suite and access to more than 7 thousand games with Steam.
 ## Fun facts
 ``-> Add some fun facts about the distro like (Famous people who use the distro and Distrowatch ranking) ``
 ## How to install it?
