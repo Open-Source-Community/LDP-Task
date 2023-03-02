@@ -23,7 +23,9 @@ While writing his content, Clem strated gainig an understanding of what the comm
 ## Who is it made for?
 ``-> Add distros targeted users``
 ## Who is it **not** made for?
-``-> Add types of users that **wont** find this distro suitable``
+This distro is not made for people who want bleeding edge performance out of their machine or people who are looking for a distro that allows them to have fine grain control over every single detail in order to fully costumize their operating system. 
+
+People who fall in either or both of the above categories usually find other distros such as Arch linux more suitbale for their needs.
 
 ## What desktop environment does it use?
 ``-> Add the desktop enviroment that it uses (gnome,kde,xfce,etc)``
