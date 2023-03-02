@@ -11,9 +11,10 @@ While writing his content, Clem strated gainig an understanding of what the comm
 ``-> Add distro images``
 
 ## It's Pros
-``-> Add distro pros relating to: ``
-
-``(Stability , Security , Performance , Compatible apps , Hardware/System requirements, Technical support of the distro's maintainers) and any other points you find``
+- Works out of the box with full multimedia support (requires very little effort to setup).
+- Very stable and low maintenance.
+- It's based on Ubuntu which gives the user a large number of available packages (around 30,000).
+- It's a very beginner friendly distro.
 ## It's Cons
 ``-> Add distro cons relating to: ``
 
