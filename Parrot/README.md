@@ -10,50 +10,35 @@
 
         As mentioned, Parrot is based on debian though the Parrot team considered shifting to Devuan in 2017 due to problems with system,but was eventually resolved .in january 2019, the team has phased out 32-bit support to concentrate their effort s on x64 and ARM. and to ensure the systems becomes further lightweight,the XFCE Desktop environment (home edition only) became officially supported in August 2020.
     
-# Features of Parrot OS
-### It is intended for daily Linux users, software developers, system administrators, system programmers, computer science/engineering students.
-
-+ Full office suite.
-
-+ Multimedia production tools including VLC and GIMP.
-
-+ Anonymity tools such as AnonSurf, TOR, and Firefox pre-installed Ad-blockers.
-
-+ Full disk encryption and all encryption tools including zulucrypt, sirikali, and more.
-
-+ Development tools such as VSCodium and Geany, and much more.
-
-+ Support for popular programming languages/frameworks such as Nodejs, Go, Rust, Python, Java, and many other, compilers, interpreters, libraries, and development frameworks either pre-installed or installable from the supported repositories.
-
-+ Parrot OS is completely free and developed by the open-source community, hence, giving users the source code to customize it as per their needs.
-
-+ Parrot OS is very lightweight and runs amazingly well on legacy hardware with a smaller number of resources.
-
-+ Parrot OS receives constant timely updates to keep ahead of the other tools and ensures that it is completely sandboxed at the same time.
-
-+ Parrot is recommended for users who are passionate about customization
-    + Custom Kernel: Along with all the giant catalog of scripts, parrot security has its own hardened Linux kernel, modified explicitly to provide as much security and resistance to hackers as possible as the first line of defense.
-
-    + Customizable Desktop: They provide a choice between two different desktop environments, MATE, which comes pre-installed by default, and KDE. You can think of desktop environments as the main UI for a Linux distribution for those unfamiliar with Linux terminology.
-
-+ Variety of Apps: All the tools you find in Kali Linux, a well-known penetration testing operating system, are present in Parrot Security, and then a few extra ones for good measure.
+- ## Features of Parrot OS
+    ### It is intended for daily Linux users, software developers, system administrators, system programmers, computer science/engineering students.
+	+ Full office suite.
+	+ Multimedia production tools including VLC and GIMP.
+	+ Anonymity tools such as AnonSurf, TOR, and Firefox pre-installed Ad-blockers.
+	+ Full disk encryption and all encryption tools including zulucrypt, sirikali, and more.
+	+ Development tools such as VSCodium and Geany, and much more.
+	+ Support for popular programming languages/frameworks such as Nodejs, Go, Rust, Python, Java, and many other, compilers, interpreters, libraries, and development frameworks either pre-installed or installable from the supported repositories.
+	+ Parrot OS is completely free and developed by the open-source community, hence, giving users the source code to customize it as per their needs.
+	+ Parrot OS is very lightweight and runs amazingly well on legacy hardware with a smaller number of resources.
+	+ Parrot OS receives constant timely updates to keep ahead of the other tools and ensures that it is completely sandboxed at the same time.
+	+ Parrot is recommended for users who are passionate about customization
+    	+ Custom Kernel: Along with all the giant catalog of scripts, parrot security has its own hardened Linux kernel, modified explicitly to provide as much security and resistance to hackers as possible as the first line of defense.
+    	+ Customizable Desktop: They provide a choice between two different desktop environments, MATE, which comes pre-installed by default, and KDE. You can think of desktop environments as the main UI for a Linux distribution for those unfamiliar with Linux terminology.
+	+ Variety of Apps: All the tools you find in Kali Linux, a well-known penetration testing operating system, are present in Parrot Security, and then a few extra ones for good measure.
 
 --- 
-# Extra Information about parrot!
+- ## Extra Information about parrot!
 
-* Desktop Environment: By default, Parrot OS uses the `Mate desktop environment`. 
-    + However, users can install other Desktop Environments.
+	* Desktop Environment: By default, Parrot OS uses the `Mate desktop environment`. 
+    		+ However, users can install other Desktop Environments.
 
-* Desktop Diplay Manager: `Lightdm`
-
-* Package manager: Parrot uses `apt` package manager when we want to download packages or update the workspace 
-    + apt-get update
-    + apt-get upgrage
-    + apt install ....
-
-* System Requirements:
+	* Desktop Diplay Manager: `Lightdm`
+	* Package manager: Parrot uses `apt` package manager when we want to download packages or update the workspace 
+    	+ apt-get update
+    	+ apt-get upgrage
+    	+ apt install ....
+	* System Requirements:
     + **The minimum system requirements to run a full-fledged installation of parrot security are as below:**
-
         + No Graphical Acceleration Required
         + Minimum 320MB RAM is required
         + A minimum 1GHZ dual-core CPU is required
@@ -62,7 +47,7 @@
 
 + Parrot OS is designed for security, privacy, and development, Parrot ships with an assortment of IT security and digital forensics tools, utilities, and libraries; development and programming tools; as well as privacy protection tools.
 
-#### Parrot has come a long way since its inception. It has grown into a quintessential framework for Cyber Security operations. It has advanced remarkably thanks to the core team and an active community of contributors.
+- #### Parrot has come a long way since its inception. It has grown into a quintessential framework for Cyber Security operations. It has advanced remarkably thanks to the core team and an active community of contributors.
 
 + Parrot has different editions for different use cases.
     * Parrot Security Edition
