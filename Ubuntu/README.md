@@ -39,13 +39,3 @@
 
     If you are new to Linux, or already use Linux and want to try a different 
     Linux distro it is unlikely you will find a better option than Ubuntu Linux.
-
-- ##
-
-- ## 
-
-- ## How to install Ubuntu
-    - Download the Ubuntu image, from [here](https://ubuntu.com/download/desktop), then it will be like this : [inst1](./images/1.jpeg)
-     
-
-- ##
