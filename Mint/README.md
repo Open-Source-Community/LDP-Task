@@ -34,7 +34,14 @@ Non LTS (or interim) versions only include nine months of security support. If y
 - It's a very beginner friendly distro.
 ## It's Cons
 ``-> Add distro cons relating to: ``
-
+| Related TO              | Cons |
+| :---------------- | :------: |
+|  Stability       | Linux Mint seems like the obvious choice. It’s based on Ubuntu, which provides great stability with software packages and balances that with a hardware enablement stack to give newer computers a fighting chance at working with Linux. |
+|  Security        |   The Linux Mint project does not provide security advice and has been criticized for not doing so on at least one occasion.|
+|  Performance     | Though Linux Mint may seem a little faster to use daily, but on older hardware, it will feel faster, while Ubuntu seems to work more better as the software ages. Mint becomes even faster when it runs, like Ubuntu. |
+|  Compatible apps | Some of the most popular Windows apps that are compatible with Linux Mint include Microsoft Office, Skype, Adobe Photoshop, and iTunes         |
+|Hardware/System requirements| 2 GB of RAM , 20 GB of hard drive space , 1024 x 768 resolution|
+|Technical support | Does not have support for a large number of popular applications and drivers. If you need these, you should consider other distributions such as Ubuntu or Linux Mint itself.|
 ``(Stability , Security , Performance , Compatible apps , Hardware/System requirements, Technical support of the distro's maintainers) and any other points you find``
 
 ## Who is it made for?
