@@ -20,6 +20,13 @@ Non LTS (or interim) versions only include nine months of security support. If y
 - It's based on Ubuntu which gives the user a large number of available packages (around 30,000).
 - It's a very beginner friendly distro.
 - provides great stability with software packages and balances that with a hardware enablement stack to give newer computers a fighting chance at working with Linux.
+- Beautiful Desktop
+- Drivers, Multimedia, Tools Support
+-  An Open-Source Philosophy
+- A Welcoming Community
+
+For Extra Knowledge You cand find details [here](https://www.fossmint.com/reasons-to-use-linux-mint/)
+
 
 ## It's Cons
 |          Related TO          |                                                                                                                   Cons                                                                                                                    |
