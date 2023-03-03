@@ -94,7 +94,7 @@ It is a package manager for Linux Mint that is known as the dpkg.
 - The main features of Linux Mint that made me choose it were: tools for graphic design (GIMP, Blender and Inkscape), improved productivity with LibreOffice suite and access to more than 7 thousand games with Steam.
 ## For your knowlege
 Mint is always in top 7 Ranking linux distro in [Distrowatch](https://distrowatch.com/index.php?dataspan=26)
- 
+
 ![distroatcher](https://i1.wp.com/www.linuxandubuntu.com/wp-content/uploads/2019/07/distrowatch-top-30-linux-distros.jpg?w=1400)
 ## How to install it?
 ![installation](https://i.pinimg.com/736x/d1/18/26/d1182642ff33a7e47bfcba772abcbb9e--linux-mint-fed-up-with.jpg)
@@ -130,6 +130,7 @@ You’ll be warned that disk will be formatted. Hit continue and you’ll have t
 ###  Step 9: Enjoy !!
 ![Enjoy](https://itsfoss.com/content/images/wordpress/2020/07/installing-linux-mint-1.png)
 
+# After Installation
 ![installation](https://th.bing.com/th/id/OIP.j2PjrtcPvac94mliIuc_owAAAA?pid=ImgDet&rs=1)
 
 
