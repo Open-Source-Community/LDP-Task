@@ -51,12 +51,21 @@ Non LTS (or interim) versions only include nine months of security support. If y
 |Technical support | Does not have support for a large number of popular applications and drivers. If you need these, you should consider other distributions such as Ubuntu or Linux Mint itself.|
 
 ## Who is it made for?
+<<<<<<< HEAD
 ``-> Add distros targeted users``
 ## Who is it **not** made for?
 This distro is not made for people who want bleeding edge performance out of their machine or people who are looking for a distro that allows them to have fine grain control over every single detail in order to fully costumize their operating system. 
 
 People who fall in either or both of the above categories usually find other distros such as Arch linux more suitbale for their needs.
+=======
+-I think that Mint's target user is someone who comes from a windows background.
+-Linux Mint does not have background processes that eat up precious system resources!
+-Being new to Linux, the transition is going fairly well.
+>>>>>>> d9c7ed9 (added target users for Mint)
 
+## Who is it **not** made for?
+-Gamers
+-who don't like Windows look like ever
 ## What desktop environment does it use?
 One of the nice things about linux mint is that it comes in three Editions each with a different desktop environments to suit different needs.
 
