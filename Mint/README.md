@@ -92,7 +92,7 @@ It is a package manager for Linux Mint that is known as the dpkg.
 - I really love Linux Mint, it is easy to install, very easy to use - yet it also has all the power of Linux under its hood. Just open up a terminal and everything is there. A well thought out and well rounded desktop focused distribution with some really stunning aesthetics.
 - Linux Mint is a great alternative for Windows or Ubuntu users, who are looking for a free and genuine operating system, that is both reliable and easy to operate.
 - The main features of Linux Mint that made me choose it were: tools for graphic design (GIMP, Blender and Inkscape), improved productivity with LibreOffice suite and access to more than 7 thousand games with Steam.
-## Fun facts
+## For your knowlege
 Mint is always in top 7 Ranking linux distro in [Distrowatch](https://distrowatch.com/index.php?dataspan=26) 
 ![distroatcher](https://i1.wp.com/www.linuxandubuntu.com/wp-content/uploads/2019/07/distrowatch-top-30-linux-distros.jpg?w=1400)
 ## How to install it?
