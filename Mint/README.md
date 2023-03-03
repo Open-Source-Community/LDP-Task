@@ -81,7 +81,17 @@ The Xfce version does not have as many features as in the cinnamon and MATE vers
 ___Xfce desktop___
 
 ## What package manager does it use?
-``-> Add the package manager that it uses (apt, rpm, dpkg, etc)``
+![alt text](https://syscdn.systranbox.com/which_package_manager_is_used_in_linux_mint.png)
+
+Linux Mint uses the apt package manager. The apt package manager is a powerful tool that can be used to manage packages on a Linux system. The apt package manager is used to install, remove, and update packages on a Linux Mint system.
+
+Linux Mint comes with a package manager that allows you to install, update, and remove software. The default package manager for Linux Mint is mintInstall, but there are a few others available as well. In this article, we will discuss the different package managers available for Linux Mint and how to use them.
+
+***Note*** : Linux Mint Default Package Manager
+It is a package manager for Linux Mint that is known as the dpkg.
+
+
+
 ## User Experiences/Reviews
 - I really love Linux Mint, it is easy to install, very easy to use - yet it also has all the power of Linux under its hood. Just open up a terminal and everything is there. A well thought out and well rounded desktop focused distribution with some really stunning aesthetics.
 - Linux Mint is a great alternative for Windows or Ubuntu users, who are looking for a free and genuine operating system, that is both reliable and easy to operate.
