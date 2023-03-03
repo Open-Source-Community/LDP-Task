@@ -14,10 +14,6 @@ With Ubuntu’s frequent major changes are a double edged sword, tending to push
 There is a lack of a stable release schedule, that means, if you’re looking for long term support or bug fixes. Then, you’ll have to pay extra and wait longer than with other distributions.
 Non LTS (or interim) versions only include nine months of security support. If you run an older version of Ubuntu and need support from Canonical. Then, you have to upgrade all your packages or wait until an LTS version  release.
 
-## Distro images
-### Mint GNOME
-![alt text](https://www.how2shout.com/linux/wp-content/uploads/2021/08/Gnome-Desktop-installation-screenshot-Linux-Mint.png)
-
 ## It's Pros
 - Works out of the box with full multimedia support (requires very little effort to setup).
 - Very stable and low maintenance.
@@ -49,6 +45,10 @@ People who fall in either or both of the above categories usually find other dis
 
 
 ## What desktop environment does it use?
+
+### Mint GNOME
+![GNOME DESKTOP](https://www.how2shout.com/linux/wp-content/uploads/2021/08/Gnome-Desktop-installation-screenshot-Linux-Mint.png)
+
 One of the nice things about linux mint is that it comes in three Editions each with a different desktop environments to suit different needs.
 
 The editions are: Cinnamon, MATE and Xfce.
