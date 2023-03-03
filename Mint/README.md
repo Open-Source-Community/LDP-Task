@@ -59,13 +59,17 @@ This distro is not made for people who want bleeding edge performance out of the
 People who fall in either or both of the above categories usually find other distros such as Arch linux more suitbale for their needs.
 =======
 -I think that Mint's target user is someone who comes from a windows background.
+
 -Linux Mint does not have background processes that eat up precious system resources!
+
 -Being new to Linux, the transition is going fairly well.
 >>>>>>> d9c7ed9 (added target users for Mint)
 
 ## Who is it **not** made for?
 -Gamers
+
 -who don't like Windows look like ever
+
 ## What desktop environment does it use?
 One of the nice things about linux mint is that it comes in three Editions each with a different desktop environments to suit different needs.
 
