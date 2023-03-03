@@ -143,7 +143,7 @@
 
 - ## How to install Ubuntu
     - Download the Ubuntu image, from [here](https://ubuntu.com/download/desktop), then it will be like this : ![inst1](images/1.jpeg)
-    - and this window will appear, just press enter on the first choice
+    - in the beggining this window will appear, just press enter on the first choice
      <br>  ![inst2](images/2.jpeg)
     - and loading ...
      <br> ![inst3](images/3.jpeg)
