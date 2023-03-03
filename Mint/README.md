@@ -81,7 +81,7 @@ The Xfce version does not have as many features as in the cinnamon and MATE vers
 ___Xfce desktop___
 
 ## What package manager does it use?
-![alt text](https://syscdn.systranbox.com/which_package_manager_is_used_in_linux_mint.png)
+![alt text](https://th.bing.com/th/id/R.7fc1a32297b651b2c0c34a9d3cec5d1c?rik=R%2bXuVxz3hiMafw&riu=http%3a%2f%2fwww.tuxarena.com%2fwp-content%2fuploads%2f2014%2f11%2fsoftware_manager.jpg&ehk=ksRTYz0OGzB0clXO2PhSqUZlVPREXQOnPPmNe%2f2JDGs%3d&risl=&pid=ImgRaw&r=0)
 
 Linux Mint uses the apt package manager. The apt package manager is a powerful tool that can be used to manage packages on a Linux system. The apt package manager is used to install, remove, and update packages on a Linux Mint system.
 
