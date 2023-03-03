@@ -1,6 +1,5 @@
 
 # Parrot
-=======
 # ParrotOs
 - ## What's it based on?
     Parrot Os is a Linux distribution based on Debian with a focus on security,privacy,and development
@@ -12,7 +11,7 @@
         Parrot Security Os is developed by security expert Lorenzo Faletra a long with a team of other security experts , open source developers ,digital rights advocates,and other linux enthusiasts.the first bublic release was on April 2013.version 1.0 codenamed Hydrogen was released in july 2014. Version 2.0 codenamed Helium came out in september 2015. version 3 codenamed Lithium came out in june 2016. version 4 was released in may 2018.ParrotOs is currently at version 4.11 released last march 2021.
 
         As mentioned, Parrot is based on debian though the Parrot team considered shifting to Devuan in 2017 due to problems with system,but was eventually resolved .in january 2019, the team has phased out 32-bit support to concentrate their effort s on x64 and ARM. and to ensure the systems becomes further lightweight,the XFCE Desktop environment (home edition only) became officially supported in August 2020.
-    
+
 - ## Pros & Cons
   Parrot OS is a popular Linux distribution that is focused on security, privacy, and development. Like any operating system, Parrot OS has its pros and cons, which we'll discuss below:
   - ### Pros:
@@ -60,8 +59,26 @@
     	+ Custom Kernel: Along with all the giant catalog of scripts, parrot security has its own hardened Linux kernel, modified explicitly to provide as much security and resistance to hackers as possible as the first line of defense.
     	+ Customizable Desktop: They provide a choice between two different desktop environments, MATE, which comes pre-installed by default, and KDE. You can think of desktop environments as the main UI for a Linux distribution for those unfamiliar with Linux terminology.
 	+ Variety of Apps: All the tools you find in Kali Linux, a well-known penetration testing operating system, are present in Parrot Security, and then a few extra ones for good measure.
-
---- 
+---
+- ## Who is it for and Who is it not for?
+    - #### Parrot OS is a Linux-based operating system that is designed for ethical hacking, pen testing, digital forensics, and cryptography. It is specifically targeted towards security researchers, penetration testers, network specialists, and other professionals who work with computer security.
+        - Parrot OS comes pre-installed with a wide range of tools for network analysis, vulnerability assessment, and penetration testing. It also includes tools for digital forensics, reverse engineering, and cryptography, making it a versatile platform for cybersecurity professionals.
+However, it should be noted that Parrot OS is not limited to these uses only and can be used by anyone who is interested in using a privacy-focused, secure, and open-source operating system.
+    - #### Parrot OS is primarily designed for cybersecurity professionals, ethical hackers, and pen testers who need a powerful and versatile platform to carry out their work. As such, it may not be suitable for those who are looking for a more user-friendly and straightforward operating system.
+        - Parrot OS requires some level of technical knowledge and expertise to use effectively, and it may not be suitable for beginners or casual users who are not familiar with Linux-based operating systems.
+Additionally, Parrot OS is not designed for general-purpose computing tasks like web browsing, multimedia, and productivity applications. While it is possible to use Parrot OS for these purposes, it may not provide the same level of user experience as other more mainstream operating systems.
+Finally, Parrot OS may not be suitable for individuals who do not require the advanced security and privacy features offered by the operating system. If you are simply looking for a basic operating system for everyday use, Parrot OS may not be the best choice.
+   - ### ParrotOs is good for whom?
+      + Parrot OS is an excellent choice for cybersecurity professionals, ethical hackers, and pen testers who require a powerful and versatile platform to carry out their work. It offers a range of tools for network analysis, vulnerability assessment, and penetration testing, making it an indispensable tool for these professionals.
+      + In addition, Parrot OS is designed to provide strong privacy and security features, including built-in encryption and secure boot capabilities. This makes it a great choice for individuals who are concerned about protecting their data and maintaining their online privacy.
+      + Parrot OS is also suitable for those who prefer open-source software and want to use an operating system that is free of charge and provides full access to its source code.
+      + Finally, Parrot OS can be a good choice for those who enjoy customizing their operating system and prefer a more flexible and open approach to computing. Its lightweight and modular design allow users to tailor the system to their specific needs and preferences.
+   - ### Parrot is not good for whom?      
+      + Parrot OS may not be the best choice for individuals who are not familiar with Linux-based operating systems or those who require a more user-friendly and straightforward platform. It requires some level of technical knowledge and expertise to use effectively, and may not be suitable for beginners or casual users.
+      + Additionally, Parrot OS is not designed for general-purpose computing tasks such as web browsing, multimedia, and productivity applications. While it is possible to use Parrot OS for these purposes, it may not provide the same level of user experience as other more mainstream operating systems.
+      + Parrot OS may also not be suitable for individuals who do not require the advanced security and privacy features offered by the operating system. If you are simply looking for a basic operating system for everyday use, Parrot OS may not be the best choice.
+      + Finally, Parrot OS may not be compatible with all hardware configurations, so it is essential to check the system requirements before attempting to install it.
+---
 - ## Extra Information about parrot!
 
 	* Desktop Environment: By default, Parrot OS uses the `Mate desktop environment`. 
