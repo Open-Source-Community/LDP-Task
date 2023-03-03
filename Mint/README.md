@@ -19,10 +19,11 @@ Non LTS (or interim) versions only include nine months of security support. If y
 - Very stable and low maintenance.
 - It's based on Ubuntu which gives the user a large number of available packages (around 30,000).
 - It's a very beginner friendly distro.
+- provides great stability with software packages and balances that with a hardware enablement stack to give newer computers a fighting chance at working with Linux.
+
 ## It's Cons
 |          Related TO          |                                                                                                                   Cons                                                                                                                    |
 |:----------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|          Stability           | Linux Mint seems like the obvious choice. It’s based on Ubuntu, which provides great stability with software packages and balances that with a hardware enablement stack to give newer computers a fighting chance at working with Linux. |
 |           Security           |                                                        The Linux Mint project does not provide security advice and has been criticized for not doing so on at least one occasion.                                                         |
 |         Performance          |           Though Linux Mint may seem a little faster to use daily, but on older hardware, it will feel faster, while Ubuntu seems to work more better as the software ages. Mint becomes even faster when it runs, like Ubuntu.           |
 |       Compatible apps        |                                                  Some of the most popular Windows apps that are compatible with Linux Mint include Microsoft Office, Skype, Adobe Photoshop, and iTunes                                                   |
