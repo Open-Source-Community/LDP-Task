@@ -15,15 +15,24 @@
 -  The first release was a customized version of Ubuntu GNOME, with mostly visual differences. Some different default applications were supplied and some settings were changed.
 ---
 
-## pros
--
-
-
-
+## Pros
+- ### Auto stacking of windows
+- ### Keyboard navigation / shortcuts
+- ### Productive worksystem
+- ### Pop_shop for software managment (nicely organized and categorized )
+- ### Separate installation for NVIDIDA GPUs
+- ### Gaming ready & hardware (Steam , gamehub , Lutris)
+- ### Security and privacy aspects (support full disk encryption)
+- ### Easy installation / Easy to use
+- ### Automatic updates
+- ### Faster than most of the Operating systems (Open source so developers can update its source code)
+- ### Auto-Tiling
+- ### A lot of development toolkits that works efficently
 ---
-## cons
--
-
+## Cons
+- ### only a 64-bit processor is available
+- ###  Dependant on ubuntu
+- ### Doesn't support dual booting
 
 ---
 ## Who's it made for?
