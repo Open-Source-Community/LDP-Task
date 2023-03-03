@@ -1,6 +1,5 @@
 
 # Parrot
-# ParrotOs
 - ## What's it based on?
     Parrot Os is a Linux distribution based on Debian with a focus on security,privacy,and development
 - ## History of Parrot Os
@@ -43,22 +42,6 @@
     - Dependency issues: Installing and configuring some software in Parrot OS may require resolving dependency issues, which can be time-consuming and challenging for new users.
     - Documentation: While Parrot OS has comprehensive documentation, some users may find it challenging to understand or navigate, especially if they are new to Linux.
     - Resource-intensive: Some of the tools in Parrot OS are resource-intensive, which means that they may not run smoothly on older or less powerful hardware.
----    
-- ## Features of Parrot OS
-    ### It is intended for daily Linux users, software developers, system administrators, system programmers, computer science/engineering students.
-	+ Full office suite.
-	+ Multimedia production tools including VLC and GIMP.
-	+ Anonymity tools such as AnonSurf, TOR, and Firefox pre-installed Ad-blockers.
-	+ Full disk encryption and all encryption tools including zulucrypt, sirikali, and more.
-	+ Development tools such as VSCodium and Geany, and much more.
-	+ Support for popular programming languages/frameworks such as Nodejs, Go, Rust, Python, Java, and many other, compilers, interpreters, libraries, and development frameworks either pre-installed or installable from the supported repositories.
-	+ Parrot OS is completely free and developed by the open-source community, hence, giving users the source code to customize it as per their needs.
-	+ Parrot OS is very lightweight and runs amazingly well on legacy hardware with a smaller number of resources.
-	+ Parrot OS receives constant timely updates to keep ahead of the other tools and ensures that it is completely sandboxed at the same time.
-	+ Parrot is recommended for users who are passionate about customization
-    	+ Custom Kernel: Along with all the giant catalog of scripts, parrot security has its own hardened Linux kernel, modified explicitly to provide as much security and resistance to hackers as possible as the first line of defense.
-    	+ Customizable Desktop: They provide a choice between two different desktop environments, MATE, which comes pre-installed by default, and KDE. You can think of desktop environments as the main UI for a Linux distribution for those unfamiliar with Linux terminology.
-	+ Variety of Apps: All the tools you find in Kali Linux, a well-known penetration testing operating system, are present in Parrot Security, and then a few extra ones for good measure.
 ---
 - ## Who is it for and Who is it not for?
     - #### Parrot OS is a Linux-based operating system that is designed for ethical hacking, pen testing, digital forensics, and cryptography. It is specifically targeted towards security researchers, penetration testers, network specialists, and other professionals who work with computer security.
@@ -73,11 +56,27 @@ Finally, Parrot OS may not be suitable for individuals who do not require the ad
       + In addition, Parrot OS is designed to provide strong privacy and security features, including built-in encryption and secure boot capabilities. This makes it a great choice for individuals who are concerned about protecting their data and maintaining their online privacy.
       + Parrot OS is also suitable for those who prefer open-source software and want to use an operating system that is free of charge and provides full access to its source code.
       + Finally, Parrot OS can be a good choice for those who enjoy customizing their operating system and prefer a more flexible and open approach to computing. Its lightweight and modular design allow users to tailor the system to their specific needs and preferences.
-   - ### Parrot is not good for whom?      
+   - ### Parrot is not good for whom? 
       + Parrot OS may not be the best choice for individuals who are not familiar with Linux-based operating systems or those who require a more user-friendly and straightforward platform. It requires some level of technical knowledge and expertise to use effectively, and may not be suitable for beginners or casual users.
       + Additionally, Parrot OS is not designed for general-purpose computing tasks such as web browsing, multimedia, and productivity applications. While it is possible to use Parrot OS for these purposes, it may not provide the same level of user experience as other more mainstream operating systems.
       + Parrot OS may also not be suitable for individuals who do not require the advanced security and privacy features offered by the operating system. If you are simply looking for a basic operating system for everyday use, Parrot OS may not be the best choice.
       + Finally, Parrot OS may not be compatible with all hardware configurations, so it is essential to check the system requirements before attempting to install it.
+--- 
+- ## Features of Parrot OS
+    ### It is intended for daily Linux users, software developers, system administrators, system programmers, computer science/engin>
+        + Full office suite.
+        + Multimedia production tools including VLC and GIMP.
+        + Anonymity tools such as AnonSurf, TOR, and Firefox pre-installed Ad-blockers.
+        + Full disk encryption and all encryption tools including zulucrypt, sirikali, and more.
+        + Development tools such as VSCodium and Geany, and much more.
+        + Support for popular programming languages/frameworks such as Nodejs, Go, Rust, Python, Java, and many other, compilers, in>
+        + Parrot OS is completely free and developed by the open-source community, hence, giving users the source code to customize >
+        + Parrot OS is very lightweight and runs amazingly well on legacy hardware with a smaller number of resources.
+        + Parrot OS receives constant timely updates to keep ahead of the other tools and ensures that it is completely sandboxed at>
+        + Parrot is recommended for users who are passionate about customization
+        + Custom Kernel: Along with all the giant catalog of scripts, parrot security has its own hardened Linux kernel, modified ex>
+        + Customizable Desktop: They provide a choice between two different desktop environments, MATE, which comes pre-installed by>
+        + Variety of Apps: All the tools you find in Kali Linux, a well-known penetration testing operating system, are present in P>
 ---
 - ## Extra Information about parrot!
 
