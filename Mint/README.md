@@ -20,8 +20,14 @@ Non LTS (or interim) versions only include nine months of security support. If y
 >>>>>>> 70caca5 (mint_b to step back to original forked repo)
 
 ## Distro images
-``-> Add distro images``
-
+### Desktop
+![alt text](http://url/to/img.png)
+https://th.bing.com/th/id/R.5f03cf14cf4e07c2e09783a64be1ff41?rik=mnoCkmYlu%2bVMWg&pid=ImgRaw&r=0
+### Mint Cinnamon
+![alt text](https://cubiclenate.files.wordpress.com/2019/01/linuxmint-21-menu.png?w=1024&h=758)
+![alt text](https://pplware.sapo.pt/wp-content/uploads/2018/12/mint_03.jpg)
+### Mint GNOME
+![alt text](https://www.how2shout.com/linux/wp-content/uploads/2021/08/Gnome-Desktop-installation-screenshot-Linux-Mint.png)
 ## It's Pros
 - Works out of the box with full multimedia support (requires very little effort to setup).
 - Very stable and low maintenance.
