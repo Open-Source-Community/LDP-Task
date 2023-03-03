@@ -62,21 +62,188 @@ Finally, Parrot OS may not be suitable for individuals who do not require the ad
       + Parrot OS may also not be suitable for individuals who do not require the advanced security and privacy features offered by the operating system. If you are simply looking for a basic operating system for everyday use, Parrot OS may not be the best choice.
       + Finally, Parrot OS may not be compatible with all hardware configurations, so it is essential to check the system requirements before attempting to install it.
 --- 
-- ## Features of Parrot OS
-    ### It is intended for daily Linux users, software developers, system administrators, system programmers, computer science/engin>
-     + Full office suite.
-     + Multimedia production tools including VLC and GIMP.
-     + Anonymity tools such as AnonSurf, TOR, and Firefox pre-installed Ad-blockers.
-     + Full disk encryption and all encryption tools including zulucrypt, sirikali, and more.
-     + Development tools such as VSCodium and Geany, and much more.
-     + Support for popular programming languages/frameworks such as Nodejs, Go, Rust, Python, Java, and many other, compilers, in>
-     + Parrot OS is completely free and developed by the open-source community, hence, giving users the source code to customize >
-     + Parrot OS is very lightweight and runs amazingly well on legacy hardware with a smaller number of resources.
-     + Parrot OS receives constant timely updates to keep ahead of the other tools and ensures that it is completely sandboxed at>
-     + Parrot is recommended for users who are passionate about customization
-     + Custom Kernel: Along with all the giant catalog of scripts, parrot security has its own hardened Linux kernel, modified ex>
-     + Customizable Desktop: They provide a choice between two different desktop environments, MATE, which comes pre-installed by>
-     + Variety of Apps: All the tools you find in Kali Linux, a well-known penetration testing operating system, are present in P>
+# Installation
+## How to install Parrot OS
+#### There are 4 ways for doing that 
+* Live USB Mode
+* Virtualization (virtual machine)
+    + Virtual Box
+    + VMware
+* HardDisk Installation
+* Dual-Boot with windows
+
+#### Now we will explain How to install Parrot in Virtualbox
+1. First We need to Download and install Virtual Box
+    * You can download it from [VirtualBox](https://download.virtualbox.org/virtualbox/7.0.6/VirtualBox-7.0.6-155176-Win.exe)
+
+2. You need to download Parrot OS installation images
+    * There are many Parrot OS edition , You can download them from [Parrot OS ISO](https://www.parrotsec.org/download/) 
+    
+1. Open the virtual box and click on the New Button.
+
+![firstphoto](imgs/1.png)
+
+4. Give the name to your virtual machine, add Machine Folder, Type=Linux, and version as Debian (64-bit).Click on next.
+A machine folder is the location where the instance of your virtual os is saved. You don’t need to provide it, it will select its default location automatically.
+
+![firstphoto](imgs/2.png)
+
+5. Now, to allot the RAM size for a virtual machine, if you have 4GB RAM, give a Memory Size of 15045MB RAM at least so that your virtual machine, as well as your local machine both, can work smoothly. For 8GB RAM and above can give a memory size of 2048MB to 4096MB. Click on next.
+
+![firstphoto](imgs/3.png)
+
+6. Select the option “Create a virtual hard disk now” and then click on Create button.
+
+![firstphoto](imgs/4.png)
+
+7. Now select the hard disk type for Virtual Hard Disk(For daily purposes it’s better to choose VDI). Click on Next
+
+![firstphoto](imgs/5.png)
+
+8. Now select dynamically allocated space for storage on the physical hard disk.
+
+
+![firstphoto](imgs/6.png)
+
+9. Give the size to virtual hard disk, recommended size is 20GB but you can give greater than it also. The location should be kept as default. Now click on Create button.
+
+![firstphoto](imgs/7.png)
+
+10. As soon as the process is completed, right-click on the machine name that you created and open Settings.
+
+![firstphoto](imgs/8.png)
+
+11. In the Settings window on the left pane, select System,  and in Motherboard click on the Network option in the Boot order to enable it.
+
+![firstphoto](imgs/9.png)
+
+12. In the Processor section give 2 processors for smooth performance.
+
+![firstphoto](imgs/10.png)
+
+13. Again in the left pane, click on the Storage option and then select the “Empty” option given under “Controller: IDE” in the middle pane and then click on the CD image given on the right pane on the right side of “Optical drive”. 
+It is marked with the sequence of 1,2 and 3 in the figure given below.
+
+![firstphoto](imgs/11.png)
+
+14. Click on choose a disk file and navigate it to the location where the Parrot OS ISO image you have downloaded. Then click on  Open
+
+![firstphoto](imgs/12.png)
+![firstphoto](imgs/13.png)
+
+15. In the Network section in the left pane select Bridged Adapter to use the internet in your virtual machine. It is of no use if you can’t access the net on your virtual device. Now click on OK at the Bottom.
+
+
+![firstphoto](imgs/14.png)
+
+16. Now all the settings are done and ISO location is provided. Click on start to begin the installation.
+
+![firstphoto](imgs/15.png)
+
+17. As soon as the installation starts, it prompts you to select the ISO file which you want to install since we have already given its path in settings. We can see the selected iso image, so click on the start button to launch the installation
+
+![firstphoto](imgs/16.png)
+
+18. There are two ways to install first by selecting the Live Mode (but every time you turn off the machine , Everything in the machine will be erased) and 2nd by selecting the Install option and both will work the same. we will go with the 2nd method
+Select the Parrot OS in Left Pane and click on start for installation.
+
+![firstphoto](imgs/17.avif)
+
+19. In its home screen, Select Install Parrot to begin the installation. 
+
+![firstphoto](imgs/18.png)
+
+20. Provide your location. Click on Next.
+
+![firstphoto](imgs/19.png)
+
+21. Select the default language according to your keyboard below is selected for QUERTY keyboard layout.
+
+
+![firstphoto](imgs/20.png)
+
+22. Click on the “Erase Disk” radio button (recommended for beginners ). It will automatically partition your virtual disk according to the size you have provided to it. Click on Next.
+
+![firstphoto](imgs/21.png)
+
+23. Finally, you just need to create a user( root user) and password to access it whenever you want so that your data is saved.
+
+![firstphoto](imgs/22.png)
+
+24. On the last page, it will show all the settings that you have selected or done till now so that you can verify it one last time before the final install procedure starts.
+
+![firstphoto](imgs/23.png)
+
+25. After verification, if you are not satisfied and change some settings then you can either click on the Back button or click on the Cancel button. If satisfied, then click on the Install button, it will prompt you to continue installation, then click on Install Now, to begin the installation.
+
+![firstphoto](imgs/24.png)
+
+26. Now we just need to wait for at least 20-30 minutes for the installation to finish up. After it has done, it will prompt to restart. Click on it restart so that your virtual machine will save all the necessary changes that have been made.
+
+![firstphoto](imgs/25.png)
+
+27. After restart you will see that it’s not full screen and it’s quite annoying also to work on it. Therefore, to solve such issues, VirtualBox includes Guest Additions iso to install it and make it full screen to enhance its user’s experience.
+
+---
+
+## Resize VirtualBox to Full Screen :
+
+1. Start your Parrot OS virtual machine and click on the “Parrot GNU/Linux” option or do nothing since it will automatically open Parrot GNU/Linux after 5 seconds.
+
+![firstphoto](imgs/26.jpg)
+
+2. login to the system and at the top in the Menu bar,  click in Devices and select “Insert Guest Additions CD image”. This will add Guest Additions iso image for your Linux distribution that helps it to fit in the screen. 
+
+![firstphoto](imgs/27-.jpg)
+
+3. Now open the folder path “/media/<user-name>/” to reach the folder location where this image is added( user-name is the name that you provided while creating the user during installation).
+
+![firstphoto](imgs/28-.jpg)
+
+4. Right-click on the page and select “Open in Terminal”.
+Now we run a few commands to install Guest Additions and it will enable full-screen mode to your virtual machine.
+
+![firstphoto](imgs/29-.jpg)
+
+![firstphoto](imgs/30.png)
+
+![firstphoto](imgs/31.png)
+
+![firstphoto](imgs/32.png)
+
+6. After installation is completed to apply the changes, restart your virtual machine.
+
+7. After restarting, to make your virtual machine full screen either click on the top right corner. Maximize button or press “Host+F”( host button is CTRL button present in the right bottom ) on the keyboard.  
+
+#### Now Your Parrot OS is successfully installed in VirtualBox with all the basic functionalities that are required.
+---
+## Features of Parrot OS
+### It is intended for daily Linux users, software developers, system administrators, system programmers, computer science/engineering students.
+
++ Full office suite.
+
++ Multimedia production tools including VLC and GIMP.
+
++ Anonymity tools such as AnonSurf, TOR, and Firefox pre-installed Ad-blockers.
+
++ Full disk encryption and all encryption tools including zulucrypt, sirikali, and more.
+
++ Development tools such as VSCodium and Geany, and much more.
+
++ Support for popular programming languages/frameworks such as Nodejs, Go, Rust, Python, Java, and many other, compilers, interpreters, libraries, and development frameworks either pre-installed or installable from the supported repositories.
+
++ Parrot OS is completely free and developed by the open-source community, hence, giving users the source code to customize it as per their needs.
+
++ Parrot OS is very lightweight and runs amazingly well on legacy hardware with a smaller number of resources.
+
++ Parrot OS receives constant timely updates to keep ahead of the other tools and ensures that it is completely sandboxed at the same time.
+
++ Parrot is recommended for users who are passionate about customization
+    + Custom Kernel: Along with all the giant catalog of scripts, parrot security has its own hardened Linux kernel, modified explicitly to provide as much security and resistance to hackers as possible as the first line of defense.
+
+    + Customizable Desktop: They provide a choice between two different desktop environments, MATE, which comes pre-installed by default, and KDE. You can think of desktop environments as the main UI for a Linux distribution for those unfamiliar with Linux terminology.
+
++ Variety of Apps: All the tools you find in Kali Linux, a well-known penetration testing operating system, are present in Parrot Security, and then a few extra ones for good measure.
 ---
 - ## Extra Information about parrot!
 
