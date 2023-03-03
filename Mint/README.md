@@ -38,7 +38,7 @@ Non LTS (or interim) versions only include nine months of security support. If y
 | Hardware/System requirements |                                                                                      2 GB of RAM , 20 GB of hard drive space , 1024 x 768 resolution                                                                                      |
 |      Technical support       |                               Does not have support for a large number of popular applications and drivers. If you need these, you should consider other distributions such as Ubuntu or Linux Mint itself.                               |
 
-## Who is it made for?
+## Who is it made for? (target users) 
 
 -I think that Mint's target user is someone who comes from a windows background.
 
