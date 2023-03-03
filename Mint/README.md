@@ -27,13 +27,20 @@ Non LTS (or interim) versions only include nine months of security support. If y
 ![alt text](https://pplware.sapo.pt/wp-content/uploads/2018/12/mint_03.jpg)
 ### Mint GNOME
 ![alt text](https://www.how2shout.com/linux/wp-content/uploads/2021/08/Gnome-Desktop-installation-screenshot-Linux-Mint.png)
+
 ## It's Pros
+<<<<<<< HEAD
 - Works out of the box with full multimedia support (requires very little effort to setup).
 - Very stable and low maintenance.
 - It's based on Ubuntu which gives the user a large number of available packages (around 30,000).
 - It's a very beginner friendly distro.
+=======
+``-> Add distro pros relating to: ``
+
+``(Stability , Security , Performance , Compatible apps , Hardware/System requirements, Technical support of the distro's maintainers) and any other points you find``
+
+>>>>>>> afc1001 (fixed bug table - close #6 close #8)
 ## It's Cons
-``-> Add distro cons relating to: ``
 | Related TO              | Cons |
 | :--------------: | :------: |
 |  Stability       | Linux Mint seems like the obvious choice. It’s based on Ubuntu, which provides great stability with software packages and balances that with a hardware enablement stack to give newer computers a fighting chance at working with Linux. |
