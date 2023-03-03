@@ -1,11 +1,23 @@
 # Linux Mint
 
 ## It's History
+<<<<<<< HEAD
 Linux mint is a distribution based on Ubuntu (which in turn is based on Debian).
 
 The linux mint project was strated by a software developer called Clément Lefèbvre (now known as Clem). Clem at the time was writing reviews and tuotorials for various linux websites and decided to start his own linux blog which he called "linux mint" (yes that where the naming came from).
 
 While writing his content, Clem strated gainig an understanding of what the community wants from a distro and so he started the linux mint project in 2006 and its now one of the most popular distros out there. 
+=======
+Linux Mint was first released in August 2006 and is another operating system used for desktop and laptop computers. It is a fork of [Debian](https://cloudinfrastructureservices.co.uk/ubuntu-vs-debian-whats-the-difference/) and [Ubuntu](https://cloudinfrastructureservices.co.uk/ubuntu-vs-fedora-whats-the-difference/),  
+and is a very good alternative to the [Ubuntu desktop](https://cloudinfrastructureservices.co.uk/best-ubuntu-desktop-environments/). Mint is free of cost and open source and, above all, community driven
+Mint strives to be a modern, elegant and comfortable operating system that is powerful and easy to use. It is a free and open source operating system. Also, one of the most popular desktop [Linux distributions](https://cloudinfrastructureservices.co.uk/best-open-source-web-servers/) currently used by millions of people.
+#### Why Mint was made ?
+because there were some problems in based distro so they fix it and added some packages to Or they edited it for special needs 
+#### Problems Like : 
+With Ubuntu’s frequent major changes are a double edged sword, tending to push users towards alternatives like Linux Mint.
+There is a lack of a stable release schedule, that means, if you’re looking for long term support or bug fixes. Then, you’ll have to pay extra and wait longer than with other distributions.
+Non LTS (or interim) versions only include nine months of security support. If you run an older version of Ubuntu and need support from Canonical. Then, you have to upgrade all your packages or wait until an LTS version  release.
+>>>>>>> 70caca5 (mint_b to step back to original forked repo)
 
 ## Distro images
 ``-> Add distro images``
