@@ -99,8 +99,33 @@ It is a package manager for Linux Mint that is known as the dpkg.
 
 You can go through it following this site [How to Install Linux Mint 20 [The Simplest Way Possible]](https://itsfoss.com/install-linux-mint/)
 
-also Youtube Video from [Windows 10 to Linux Mint | Installation](https://youtu.be/Svno4shb3GY)
+### Step 1: Download Linux Mint ISO
+![installtion | Download Linux Mint ISO](https://itsfoss.com/content/images/wordpress/2020/07/download-linux-mint.png)
+### Step 2: Create a live USB of Linux Mint
+![installtion | Create a live USB of Linux Mint](https://itsfoss.com/content/images/wordpress/2020/07/linux-mint-live-usb-800x498.jpg)
+### Step 3: Boot from the live Linux Mint USB
+![installtion | Boot from the live Linux Mint USB](https://itsfoss.com/content/images/wordpress/2020/01/boot_order-BIOS.jpg)
+### Step 4: Install Linux Mint
+![installtion |  Install Linux Mint](https://itsfoss.com/content/images/wordpress/2020/07/linux-mint-boot.jpg)
+### Step 4: Click on iso Icon
+![img iso icon](https://itsfoss.com/content/images/wordpress/2020/07/install-linux-mint-from-live-usb.jpg)
+###  Step 5: choose some basic configurations like language and keyboard layout
+![installtion |choose some basic configurations like language and keyboard layout](https://itsfoss.com/content/images/wordpress/2020/07/keyboard-layout-selection-linux-mint.jpg)
+###  Step 6: *** [Be carefull]***
+The next screen is the most important part of Linux Mint installation. You are going to format the entire hard disk and install Linux Mint. Linux Mint will be the only operating system on your computer.
 
+Again, this means that you’ll lose all the data on the disk. Please copy important files on an external disk.
+
+In this method, Linux Mint handles everything on its own. It creates an ESP partition for EFI boot manager of about 500 MB and the rest of the disk is allocated to root partition. The root consists a swapfile for swap usage and your home directory. This is the easiest setup with no extra effort.
+You’ll be warned that disk will be formatted. Hit continue and you’ll have to select timezone in the next. You may change it later as well.
+![installtion | Be Carefull](https://itsfoss.com/content/images/wordpress/2020/07/erase-disk-and-install-mint.jpg)
+###  Step 7: select timezone 
+![installtion |select timezone ](https://itsfoss.com/content/images/wordpress/2020/07/timezone-selection-linux-mint.jpg)
+###  Step 8: set username and password
+![installtion |set username and password](https://itsfoss.com/content/images/wordpress/2020/07/create-user-while-installing-linux-mint.jpg)
+
+###  Step 9: Enjoy !!
+![Enjoy](https://itsfoss.com/content/images/wordpress/2020/07/installing-linux-mint-1.png)
 ![installation](https://th.bing.com/th/id/OIP.j2PjrtcPvac94mliIuc_owAAAA?pid=ImgDet&rs=1)
 
 ***[recommend Highly]*** watch next video 
