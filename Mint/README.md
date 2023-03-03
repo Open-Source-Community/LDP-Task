@@ -111,13 +111,14 @@ You can go through it following this site [How to Install Linux Mint 20 [The Sim
 ![img iso icon](https://itsfoss.com/content/images/wordpress/2020/07/install-linux-mint-from-live-usb.jpg)
 ###  Step 5: choose some basic configurations like language and keyboard layout
 ![installtion |choose some basic configurations like language and keyboard layout](https://itsfoss.com/content/images/wordpress/2020/07/keyboard-layout-selection-linux-mint.jpg)
-###  Step 6: *** [Be carefull]***
+###  Step 6: Choose Partion [Be carefull]
 The next screen is the most important part of Linux Mint installation. You are going to format the entire hard disk and install Linux Mint. Linux Mint will be the only operating system on your computer.
 
 Again, this means that you’ll lose all the data on the disk. Please copy important files on an external disk.
 
 In this method, Linux Mint handles everything on its own. It creates an ESP partition for EFI boot manager of about 500 MB and the rest of the disk is allocated to root partition. The root consists a swapfile for swap usage and your home directory. This is the easiest setup with no extra effort.
 You’ll be warned that disk will be formatted. Hit continue and you’ll have to select timezone in the next. You may change it later as well.
+
 ![installtion | Be Carefull](https://itsfoss.com/content/images/wordpress/2020/07/erase-disk-and-install-mint.jpg)
 ###  Step 7: select timezone 
 ![installtion |select timezone ](https://itsfoss.com/content/images/wordpress/2020/07/timezone-selection-linux-mint.jpg)
@@ -126,7 +127,9 @@ You’ll be warned that disk will be formatted. Hit continue and you’ll have t
 
 ###  Step 9: Enjoy !!
 ![Enjoy](https://itsfoss.com/content/images/wordpress/2020/07/installing-linux-mint-1.png)
+
 ![installation](https://th.bing.com/th/id/OIP.j2PjrtcPvac94mliIuc_owAAAA?pid=ImgDet&rs=1)
+
 
 ***[recommend Highly]*** watch next video 
 [15 Things To Do First in Linux Mint](https://youtu.be/RXV6FXVL6xI)
