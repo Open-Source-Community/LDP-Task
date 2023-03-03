@@ -99,7 +99,15 @@ It is a package manager for Linux Mint that is known as the dpkg.
 ## Fun facts
 ``-> Add some fun facts about the distro like (Famous people who use the distro and Distrowatch ranking) ``
 ## How to install it?
+![installation](https://i.pinimg.com/736x/d1/18/26/d1182642ff33a7e47bfcba772abcbb9e--linux-mint-fed-up-with.jpg)
 You can go through it following this site [How to Install Linux Mint 20 [The Simplest Way Possible]](https://itsfoss.com/install-linux-mint/)
 
 also Youtube Video from [Windows 10 to Linux Mint | Installation](https://youtu.be/Svno4shb3GY)
+
+![installation](https://th.bing.com/th/id/OIP.j2PjrtcPvac94mliIuc_owAAAA?pid=ImgDet&rs=1)
+***[recommend Highly]*** watch next video 
+[15 Things To Do First in Linux Mint](https://youtu.be/RXV6FXVL6xI)
+ to not face any difficulties in using linux in future and have great 
+*User Experience*
+
  
