@@ -42,8 +42,17 @@
 ---
 
 ## How to install Pop_Os
--
-
+1. ### Virtualbox Start Screen
+2. ### Create and Name New VM
+3. ### Allocate Memory
+4. ### Choose Drive Type
+5. ### Choose Disk File Type
+6. ### Set Drive Allocation Type
+7. ### Name Drive File and Confirm Size
+8. ### Enable EFI Mode
+9. ### Start VM
+10. ### Open ISO File
+11. ### Start Pop!_OS VM
 
 ---
 
