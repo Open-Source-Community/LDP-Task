@@ -25,12 +25,13 @@
 
 ---
 ## Who's it made for?
--
+
+- Kali is a Linux distribution specifically geared towards professional penetration testers and security specialists, and given its unique nature.
 
 
 ---
 ## Who's not it made for?
--
+- It is NOT a recommended distribution if you’re unfamiliar with Linux or are looking for a general-purpose Linux desktop distribution for development, web design, gaming, etc.
 
 ---
 ## How to install Kali
