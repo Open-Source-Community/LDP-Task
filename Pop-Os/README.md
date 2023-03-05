@@ -43,7 +43,11 @@
 
 ## How to install Pop_Os
 1. ### Virtualbox Start Screen
+![Alt text](../../Downloads/1.webp)
+
 2. ### Create and Name New VM
+
+
 3. ### Allocate Memory
 4. ### Choose Drive Type
 5. ### Choose Disk File Type
