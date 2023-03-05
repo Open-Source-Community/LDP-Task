@@ -84,13 +84,13 @@
 - This dialog tells you how you want to grow the disk as you put content on it. The default is the correct answer here as you don't really want to allocate space that you will not actually use. Click on the "Next" button to the next screen.
 
 
-7. ### Name Drive File and Confirm Size
+### 7. Name Drive File and Confirm Size
 
 ![Name Drive File and Confirm Size](images/7.webp)
 
 - Feel free to just pick the defaults here and click on the "Create" button.
 
-8. ### Enable EFI Mode
+### 8. Enable EFI Mode
 
 - To ensure the bootloader installs properly:
 
