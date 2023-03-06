@@ -37,7 +37,7 @@ Fedora is not made for someone who isn't patient, meaning that he doesn't have t
 - Fedora by defualt uses GNOME DE but you can install other DEs manually later.
 
 ## What package manager does it use?
-``-> Add the package manager that it uses (apt, rpm, dpkg, etc)``
+- Fedora uses the RPM Package Manager (formerly RedHat Package Manager)
 ## User Experiences/Reviews
 ![Alt text](resources/user-review.png)
 
