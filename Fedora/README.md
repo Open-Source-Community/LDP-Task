@@ -25,9 +25,8 @@ Warren Togami began Fedora Linux as an undergraduate project at the University o
 - In general Fedora is a great OS out of the box with a user friendly UI and a great community.
 
 ## It's Cons
-``-> Add distro cons relating to: ``
-
-``(Stability , Security , Performance , Compatible apps , Hardware/System requirements, Technical support of the distro's maintainers) and any other points you find``
+- It relatively requires a long time to set up.
+- Instability, since as we talked before, Fedora is quite new and always has the latest features, and that as we know generates instability, so that's the price you pay for always having the latest features.
 
 ## Who is it made for?
 Fedora is targeted at the average user that isn't necessarily tech-savvy however, It can still be used by more advanced linux users.
