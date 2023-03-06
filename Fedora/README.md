@@ -19,12 +19,11 @@ Warren Togami began Fedora Linux as an undergraduate project at the University o
 ![Alt text](resources/terminal.png)
 
 ## It's Pros
-- It's 100% free of charge.
+- It's 100% free of charge, unlike something like Red Hat Enterprise Linux that we mentioned before.
 - It's simple and beginner friendly and doesn't require a long time to get the hang of it.
-- It's less hardware demanding using only 1 GB of RAM while idling.
+- It's less hardware demanding, using only 1 GB of RAM while idling.
 - In general Fedora is a great OS out of the box with a user friendly UI and a great community.
 
-``(Stability , Security , Performance , Compatible apps , Hardware/System requirements, Technical support of the distro's maintainers) and any other points you find``
 ## It's Cons
 ``-> Add distro cons relating to: ``
 
@@ -56,11 +55,11 @@ You can view more reviews [here](https://www.capterra.com/p/229028/Fedora-Workst
 
 ![Alt text](https://www.linuxtechi.com/wp-content/uploads/2022/05/Choose-Start-Fedora-Workstation-Live-36.png?ezimgfmt=ng:webp/ngcb22)
 
-4. You can try out fedora before installing it on you hard drive.
+4. You can try out fedora before installing it on your hard drive.
 
 ![Alt text](https://d3t0tbmlie281e.cloudfront.net/igi/framework/BrPgH5c1ZOPpKxPP.medium)
 
-5. If you like the look and feel you can choose "Install to hard drive" option.
+5. If you like the look and feel, you can choose "Install to hard drive" option.
 
 6. You will be prompted to select your timezone and keyboard layout.
 
@@ -70,7 +69,7 @@ You can view more reviews [here](https://www.capterra.com/p/229028/Fedora-Workst
 
 ![Alt text](https://www.linuxtechi.com/wp-content/uploads/2022/05/Default-Installation-Summary-Fedora36-workstation-768x576.png?ezimgfmt=ng:webp/ngcb22)
 
-8. Choose the hard drive that you want Fedora to be installed on once finished, Click done.
+8. Choose the hard drive that you want Fedora to be installed on, once finished, Click done.
 
 ![Alt text](https://www.linuxtechi.com/wp-content/uploads/2022/05/Automatic-Storage-configuration-Fedora36-workstation-installation-768x576.png?ezimgfmt=ng:webp/ngcb22)
 
