@@ -37,14 +37,20 @@ Fedora is not made for someone who isn't patient, meaning that he doesn't have t
 - Fedora by defualt uses GNOME DE but you can install other DEs manually later.
 
 ## What package manager does it use?
-- Fedora uses the RPM Package Manager (formerly RedHat Package Manager)
+- Fedora uses the RPM Package Manager (formerly RedHat Package Manager).
 ## User Experiences/Reviews
-![Alt text](resources/user-review.png)
+**Jane Alam T. ~ A Fedora linux user:**
 
+**"Everybody can enjoy the benefits of it."**
+
+**Overall:** It has revolutionized how I do my work and has been a true lifesaver for me.
+
+I've been a Fedora Workstation user for the past few years and I love it. It's a perfect balance of power, flexibility, and more. It's easy to use out of the box and you can configure it to be as simple or as advanced as you want. In my opinion, this is the best Linux distro available today.
 
 You can view more reviews [here](https://www.capterra.com/p/229028/Fedora-Workstation/reviews/#:~:text=Pros%3A%20I've%20been%20a,best%20Linux%20distro%20available%20today.).
 ## Fun facts
-``-> Add some fun facts about the distro like (Famous people who use the distro and Distrowatch ranking) ``
+- Fedora Linux is ranked currently as the 7th best Linux distro on [Distrowatch](https://distrowatch.com/dwres.php?resource=popularity).
+- Linus Torvalds himself is widely believed to be using Fedora Linux for him and his family.
 ## How to install it?
 1. You can get Fedora's ISO image [here](https://getfedora.org/en/workstation/download/).
 
@@ -80,7 +86,7 @@ You can view more reviews [here](https://www.capterra.com/p/229028/Fedora-Workst
 
 ![Alt text](https://www.linuxtechi.com/wp-content/uploads/2022/05/Start-Setup-Fedora-36-Linux-768x576.png?ezimgfmt=ng:webp/ngcb22)
 
-12. Enjoy using Fedora !
+**12. Enjoy using Fedora !**
 
 
 
