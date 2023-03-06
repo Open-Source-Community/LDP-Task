@@ -2,7 +2,6 @@
 
 <img src="resources/linux_mint_logo.png"  width="150" height="150">
 <br />
-<br />
 
 ## It's History
 
