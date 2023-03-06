@@ -2,8 +2,6 @@
 
 <img src="resources/fedora-logo.png"  width="150" height="150">
 
-<br/>
-
 ## It's History
 To begin with, Fedora Linux or Fedora for short is **based on** [Red Hat Linux](https://en.wikipedia.org/wiki/Red_Hat_Linux)
 
