@@ -8,7 +8,7 @@ The Linux mint project was started by a software developer called Clément Lefè
 
 While writing his content, Clem started gaining an understanding of what the community wants from a distro and so he started the Linux mint project in 2006, and it is now one of the most popular distros out there. 
 #### Why Mint was made?
-Because there were some problems in the base distro (Ubuntu), Which they either fixed or edited for special needs + they also added some new packages.
+Because the base distro (in this case Ubuntu) had some problems and so the linux mint team aimed to fix these issues in their distro. The linux mint team also created this distro to suite better people with needs that ubuntu didn't address. Aditionally, the team added some new packages (which is always nice to have).
 #### Problems Like : 
 1- Stability, Ubuntu’s frequent major changes are a double-edged sword, tending to push users towards alternatives like Linux Mint.
 2- Lack of stable release schedule, which means that if you’re looking for long-term support or bug fixes, then you'll have to pay extra and wait longer than usual.
@@ -57,7 +57,7 @@ The editions are Cinnamon, MATE, and Xfce.
 ### Cinnamon
 Cinnamon is a desktop environment developed by the Linux mint team and is based on the GNOME 3 desktop environment.
 
-cinnamon is the most modern and feature rich desktop envrionemnt and also the one that requires the most computing resources.
+Cinnamon is the most modern and feature rich desktop envrionemnt and also the one that requires the most computing resources.
 
 ![Cinnamon desktop](resources/cinnamon.webp)
 ___cinnamon desktop___
@@ -69,9 +69,9 @@ The mate version has a slower development and has less features than than the ci
 ![Cinnamon desktop](resources/mate.webp)
 ___MATE desktop___
 ### Xfce
-The last version of linux uses the Xfce dektop environment
+The last version of linux mint uses the Xfce desktop environment
 
-The Xfce version does not have as many features as in the cinnamon and MATE versions but it is extremely stabel and very light on resource usage makong it optimal for low spec machines.
+The Xfce version does not have as many features as in the cinnamon and MATE versions but it is extremely stable and very light on resource usage making it optimal for low spec machines.
 
 ![Cinnamon desktop](resources/xfce.webp)
 ___Xfce desktop___
