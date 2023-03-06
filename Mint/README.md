@@ -89,7 +89,6 @@ The last version of linux mint uses the Xfce desktop environment.
 The Xfce version does not have as many features as in the cinnamon and MATE versions but it is extremely stable and very light on resource usage making it optimal for low spec machines.
 
 <img src="resources/xfce.webp"  width="1000" height="600">
-___Xfce desktop___
 
 ## What package manager does it use?
 
