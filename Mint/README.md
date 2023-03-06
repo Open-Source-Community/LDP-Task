@@ -1,4 +1,3 @@
-ddf
 # Linux Mint
 
 ## Its History
