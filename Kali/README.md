@@ -14,14 +14,21 @@
 ---
 ## pros
 
--
-
-
-
+- ### More than 600 penetration tools included (make it easier for network security teams to assess the security of their networks)
+- ### Multiple language support
+- ### Completely customizable (allows us to customise and alter Kali Linux ISO images)
+- ### Free (Will always be free)
+- ### Wide-ranging device support (connect to a variety of USB and other wireless devices)
+- ### Open development tree (anyone can inspect the codes and gain easy access to the system / keep track of the coding at each stage)
+- ### Adherence to File-system Hierarchy Standard(Simply type the tool's command name into the root terminal in Kali Linux)
+- ### Open source and has a good platform support
 ---
 ## cons
--
-
+- ### A little bit slow
+- ### A few softwares may malfunction
+- ###  is not advised for individuals who are new to Linux and wish to learn the operating system (Penetration Oriented / lacks a graphical user interface"GUI")
+- ### Some tools that is available in other distros such as Ubuntu or Fedora are not available in kali
+- ###  Inadequate for all Hardware and Has Bugs and Security Vulnerabilities
 
 ---
 ## Who's it made for?
