@@ -31,7 +31,7 @@ Warren Togami began Fedora Linux as an undergraduate project at the University o
 ## Who is it made for?
 Fedora is targeted at the average user that isn't necessarily tech-savvy however, It can still be used by more advanced linux users.
 ## Who is it **not** made for?
-``-> Add types of users that **wont** find this distro suitable``
+Fedora is not made for someone who isn't patient, meaning that he doesn't have the patience to for example move his OS a minimum of about once a year, or who wants a stable OS and doesn't really care that much about having the very latest features.
 
 ## What desktop environment does it use?
 - Fedora by defualt uses GNOME DE but you can install other DEs manually later.
