@@ -1,55 +1,49 @@
+ddf
 # Linux Mint
 
-## It's History
+## Its History
 
 Linux mint is a distribution based on Ubuntu (which in turn is based on Debian).
 
-The linux mint project was strated by a software developer called Clément Lefèbvre (now known as Clem). Clem at the time was writing reviews and tuotorials for various linux websites and decided to start his own linux blog which he called "linux mint" (yes that where the naming came from).
+The Linux mint project was started by a software developer called Clément Lefèbvre (now known as Clem). Clem at the time was writing reviews and tutorials for various Linux websites and decided to start his own Linux blog which he called "Linux mint" (yes that's where the naming came from).
 
-While writing his content, Clem strated gainig an understanding of what the community wants from a distro and so he started the linux mint project in 2006 and its now one of the most popular distros out there. 
-#### Why Mint was made ?
-because there were some problems in based distro so they fix it and added some packages to Or they edited it for special needs 
+While writing his content, Clem started gaining an understanding of what the community wants from a distro and so he started the Linux mint project in 2006, and it is now one of the most popular distros out there. 
+#### Why Mint was made?
+Because there were some problems in the base distro (Ubuntu), Which they either fixed or edited for special needs + they also added some new packages.
 #### Problems Like : 
-With Ubuntu’s frequent major changes are a double edged sword, tending to push users towards alternatives like Linux Mint.
-There is a lack of a stable release schedule, that means, if you’re looking for long term support or bug fixes. Then, you’ll have to pay extra and wait longer than with other distributions.
-Non LTS (or interim) versions only include nine months of security support. If you run an older version of Ubuntu and need support from Canonical. Then, you have to upgrade all your packages or wait until an LTS version  release.
+1- Stability, Ubuntu’s frequent major changes are a double-edged sword, tending to push users towards alternatives like Linux Mint.
+2- Lack of stable release schedule, which means that if you’re looking for long-term support or bug fixes, then you'll have to pay extra and wait longer than usual.
+3- Non-LTS (or interim) versions only include nine months of security support. If you run an older version of Ubuntu and need support from Canonical. Then, you have to upgrade all your packages or wait until an LTS version is released.
 
-## It's Pros
-- Works out of the box with full multimedia support (requires very little effort to setup).
+## Its Pros
+- Works out of the box with full multimedia support (requires very little effort to set up).
 - Very stable and low maintenance.
 - It's based on Ubuntu which gives the user a large number of available packages (around 30,000).
-- It's a very beginner friendly distro.
-- provides great stability with software packages and balances that with a hardware enablement stack to give newer computers a fighting chance at working with Linux.
+- It's a very beginner-friendly distro.
+- Provides great stability with software packages and balances that with a hardware enablement stack to give newer computers a fighting chance at working with Linux.
+- Mint is the best choice for low and minimum requirements Hardware/System as all it needs to run is 2 GB of RAM, 20 GB of hard drive space, and  1024 x 768 resolution.
 - Beautiful Desktop
-- Drivers, Multimedia, Tools Support
--  An Open-Source Philosophy
+- Drivers, Multimedia, and Tools Support
+- An Open-Source Philosophy
 - A Welcoming Community
 
-For Extra Knowledge You cand find details [here](https://www.fossmint.com/reasons-to-use-linux-mint/)
+For Extra Knowledge You can find details [here](https://www.fossmint.com/reasons-to-use-linux-mint/)
 
 
-## It's Cons
+## Its Cons
 |          Related TO          |                                                                                                                   Cons                                                                                                                    |
 |:----------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |           Security           |                                                        The Linux Mint project does not provide security advice and has been criticized for not doing so on at least one occasion.                                                         |
 |         Performance          |           Though Linux Mint may seem a little faster to use daily, but on older hardware, it will feel faster, while Ubuntu seems to work more better as the software ages. Mint becomes even faster when it runs, like Ubuntu.           |
 |       Compatible apps        |                                                  Some of the most popular Windows apps that are compatible with Linux Mint include Microsoft Office, Skype, Adobe Photoshop, and iTunes                                                   |
-| Hardware/System requirements |                                                                                      2 GB of RAM , 20 GB of hard drive space , 1024 x 768 resolution                                                                                      |
-|      Technical support       |                               Does not have support for a large number of popular applications and drivers. If you need these, you should consider other distributions such as Ubuntu or Linux Mint itself.                               |
 
 ## Who is it made for? (target users) 
-
--I think that Mint's target user is someone who comes from a windows background.
-
--Linux Mint does not have background processes that eat up precious system resources!
-
--Being new to Linux, the transition is going fairly well.
-
+Being new to Linux, the transition goes fairly well
 
 ## Who is it **not** made for?
-This distro is not made for people who want bleeding edge performance out of their machine or people who are looking for a distro that allows them to have fine grain control over every single detail in order to fully costumize their operating system. 
+This distro is not made for people who want bleeding-edge performance out of their machine or people who are looking for a distro that allows them to have fine-grain control over every single detail in order to fully customize their operating system. 
 
-People who fall in either or both of the above categories usually find other distros such as Arch linux more suitbale for their needs.
+People who fall in either or both of the above categories usually find other distros such as Arch Linux more suitable for their needs.
 
 
 ## What desktop environment does it use?
@@ -57,12 +51,12 @@ People who fall in either or both of the above categories usually find other dis
 ### Mint GNOME
 ![GNOME DESKTOP](https://www.how2shout.com/linux/wp-content/uploads/2021/08/Gnome-Desktop-installation-screenshot-Linux-Mint.png)
 
-One of the nice things about linux mint is that it comes in three Editions each with a different desktop environments to suit different needs.
+One of the nice things about Linux mint is that it comes in three Editions, each with a different desktop environment to suit different needs.
 
-The editions are: Cinnamon, MATE and Xfce.
+The editions are Cinnamon, MATE, and Xfce.
 
 ### Cinnamon
-Cinnammon is a desktop envrionment developed by the linux mint team and is based on the GNOME 3 desktop environment.
+Cinnamon is a desktop environment developed by the Linux mint team and is based on the GNOME 3 desktop environment.
 
 cinnamon is the most modern and feature rich desktop envrionemnt and also the one that requires the most computing resources.
 
@@ -88,19 +82,19 @@ ___Xfce desktop___
 
 Linux Mint uses the apt package manager. The apt package manager is a powerful tool that can be used to manage packages on a Linux system. The apt package manager is used to install, remove, and update packages on a Linux Mint system.
 
-Linux Mint comes with a package manager that allows you to install, update, and remove software. The default package manager for Linux Mint is mintInstall, but there are a few others available as well. In this article, we will discuss the different package managers available for Linux Mint and how to use them.
+Linux Mint comes with a package manager that allows you to install, update, and remove the software. The default package manager for Linux Mint is mintInstall, but there are a few others available as well. In this article, we will discuss the different package managers available for Linux Mint and how to use them.
 
-***Note*** : Linux Mint Default Package Manager
+***Note***: Linux Mint Default Package Manager
 It is a package manager for Linux Mint that is known as the dpkg.
 
 
 
 ## User Experiences/Reviews
-- I really love Linux Mint, it is easy to install, very easy to use - yet it also has all the power of Linux under its hood. Just open up a terminal and everything is there. A well thought out and well rounded desktop focused distribution with some really stunning aesthetics.
+- I really love Linux Mint, it is easy to install, and very easy to use - yet it also has all the power of Linux under its hood. Just open up a terminal and everything is there. A well thought and well-rounded desktop-focused distribution with some really stunning aesthetics.
 - Linux Mint is a great alternative for Windows or Ubuntu users, who are looking for a free and genuine operating system, that is both reliable and easy to operate.
-- The main features of Linux Mint that made me choose it were: tools for graphic design (GIMP, Blender and Inkscape), improved productivity with LibreOffice suite and access to more than 7 thousand games with Steam.
-## For your knowlege
-Mint is always in top 7 Ranking linux distro in [Distrowatch](https://distrowatch.com/index.php?dataspan=26)
+- The main features of Linux Mint that made me choose it were: tools for graphic design (GIMP, Blender, and Inkscape), improved productivity with LibreOffice suite, and access to more than 7 thousand games with Steam.
+## For your knowledge
+Mint is always in the top 7 Ranking Linux distro in [Distrowatch](https://distrowatch.com/index.php?dataspan=26)
 
 ![distroatcher](https://i1.wp.com/www.linuxandubuntu.com/wp-content/uploads/2019/07/distrowatch-top-30-linux-distros.jpg?w=1400)
 ## How to install it?
@@ -118,20 +112,20 @@ You can go through it following this site [How to Install Linux Mint 20 [The Sim
 ![installtion |  Install Linux Mint](https://itsfoss.com/content/images/wordpress/2020/07/linux-mint-boot.jpg)
 ### Step 4: Click on iso Icon
 ![img iso icon](https://itsfoss.com/content/images/wordpress/2020/07/install-linux-mint-from-live-usb.jpg)
-###  Step 5: choose some basic configurations like language and keyboard layout
+###  Step 5: Choose some basic configurations like language and keyboard layout
 ![installtion |choose some basic configurations like language and keyboard layout](https://itsfoss.com/content/images/wordpress/2020/07/keyboard-layout-selection-linux-mint.jpg)
-###  Step 6: Choose Partion [Be carefull]
-The next screen is the most important part of Linux Mint installation. You are going to format the entire hard disk and install Linux Mint. Linux Mint will be the only operating system on your computer.
+###  Step 6: Choose Partition [Be carefull]
+The next screen is the most important part of the Linux Mint installation. You are going to format the entire hard disk and install Linux Mint. Linux Mint will be the only operating system on your computer.
 
-Again, this means that you’ll lose all the data on the disk. Please copy important files on an external disk.
+Again, this means that you’ll lose all the data on the disk. Please copy important files to an external disk.
 
-In this method, Linux Mint handles everything on its own. It creates an ESP partition for EFI boot manager of about 500 MB and the rest of the disk is allocated to root partition. The root consists a swapfile for swap usage and your home directory. This is the easiest setup with no extra effort.
-You’ll be warned that disk will be formatted. Hit continue and you’ll have to select timezone in the next. You may change it later as well.
+In this method, Linux Mint handles everything on its own. It creates an ESP partition for EFI boot manager of about 500 MB and the rest of the disk is allocated to the root partition. The root consists of a swapfile for swap usage and your home directory. This is the easiest setup with no extra effort.
+You’ll be warned that the disk will be formatted. Hit continue and you’ll have to select the timezone in the next. You may change it later as well.
 
 ![installtion | Be Carefull](https://itsfoss.com/content/images/wordpress/2020/07/erase-disk-and-install-mint.jpg)
-###  Step 7: select timezone 
+###  Step 7: Select timezone 
 ![installtion |select timezone ](https://itsfoss.com/content/images/wordpress/2020/07/timezone-selection-linux-mint.jpg)
-###  Step 8: set username and password
+###  Step 8: Set username and password
 ![installtion |set username and password](https://itsfoss.com/content/images/wordpress/2020/07/create-user-while-installing-linux-mint.jpg)
 
 ###  Step 9: Enjoy !!
@@ -141,9 +135,9 @@ You’ll be warned that disk will be formatted. Hit continue and you’ll have t
 ![installation](https://th.bing.com/th/id/OIP.j2PjrtcPvac94mliIuc_owAAAA?pid=ImgDet&rs=1)
 
 
-***[recommend Highly]*** watch next video 
+***[recommend Highly]*** watch the next video 
 [15 Things To Do First in Linux Mint](https://youtu.be/RXV6FXVL6xI)
- to not face any difficulties in using linux in future and have great 
+ to not face any difficulties while using Linux in the future and have great 
 *User Experience*
 
  
