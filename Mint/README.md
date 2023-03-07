@@ -44,7 +44,7 @@ For extra knowledge you can find details [here](https://www.fossmint.com/reasons
 |          Related TO          |                                                                                                                   Cons                                                                                                                    |
 |:----------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |           Security           |                                                        The Linux Mint project does not provide security advice and has been criticized for not doing so on at least one occasion.                                                         |
-|       Compatible apps        |                                                  Some of the most popular Windows apps that are compatible with windows are not compatible with mint however, They can be emulated using [Wine](https://www.winehq.org/).                                                  |
+|       Compatible apps        |                                                  Some of the most popular Windows apps are not compatible with mint, however, they can be emulated using [Wine](https://www.winehq.org/).                                                  |
 |Supporting Technology|Mint has a conservative approach to new technologies. So, if you like to keep up with the latest technologies or flashy desktops, then you may be better suited to a distro such as Fedora instead.|
 |Device Manager|No joint accounts.|
 
