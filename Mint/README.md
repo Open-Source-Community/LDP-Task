@@ -153,7 +153,7 @@ You’ll be warned that the disk will be formatted. Hit continue and you’ll ha
 ![installation](https://th.bing.com/th/id/OIP.j2PjrtcPvac94mliIuc_owAAAA?pid=ImgDet&rs=1)
 
 
-***[recommend Highly]*** watch the next video 
+***[Highly recommended]*** watch the next video 
 [15 Things To Do First in Linux Mint](https://youtu.be/RXV6FXVL6xI)
  to not face any difficulties while using Linux in the future and have a great 
 *User Experience*
